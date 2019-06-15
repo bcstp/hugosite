@@ -1,10 +1,10 @@
-baseurl = "https://example.org/"
+baseurl = "https://www.bcsteaparty.com/"
 languageCode = "en-us"
-title = "markc static site"
+title = "Bryan/College Station Texas Tea Party"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
-disqusShortname = "wellokaythen"
+# disqusShortname = "wellokaythen"
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-minimalist-theme"
