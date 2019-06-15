@@ -10,13 +10,13 @@ googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "Mark C"
+    site_author = "B/CS Tea Party"
     site_description = "static site test of markc"
-    location = "Earth, at present"
+    location = "Texas, thank God"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
-    header_title = "markc site"
+    avatar = "img/joinordie2.jpg"
+    header_background = "img/bluebonnets.jpg"
+    header_title = "Bryan/College Station Tea Party"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
