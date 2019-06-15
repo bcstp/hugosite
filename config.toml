@@ -11,8 +11,8 @@ theme = "hugo-minimalist-theme"
 
 [params]
     site_author = "B/CS Tea Party"
-    site_description = "static site test of markc"
-    location = "Texas, thank God"
+    site_description = ""
+    location = "Bryan/College Station, Texas"
     # Link custom assets relative to /static
     avatar = "img/joinordie2.jpg"
     header_background = "img/bluebonnets.jpg"

@@ -7,11 +7,12 @@ date: 2019-06-13T11:53:12-05:00
 **_Thursday, June 20, 2019, 6:30 PM_**  
 **_Outback Steakhouse, 2102 Texas Avenue South, College Station_**
 
-<div style="width: 273px" class="wp-caption alignright" style="float:right;margin:0 0 20px 20px;"> ![Rebekah Warwick](/img/Warwick1-300x300.jpg)
 
-Rebekah Warwick is the South Central Regional Coordinator for Heritage Action
 
-</div>
+![Rebekah Warwick](/img/Warwick1-300x300.jpg)  
+Rebekah Warwick is the South Central Regional Coordinator for Heritage Action  
+
+
 
 ### **Accountability in the political world is much like a greased pig** _unless there is a coordinated effort to achieve that objective._
 
