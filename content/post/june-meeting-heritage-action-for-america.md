@@ -4,14 +4,10 @@ date: 2019-06-13T11:53:12-05:00
 
 ---
 
-# June meeting: Heritage Action for America
-
-<div class="entry-content">
-
 **_Thursday, June 20, 2019, 6:30 PM_**  
 **_Outback Steakhouse, 2102 Texas Avenue South, College Station_**
 
-<div id="attachment_7538" style="width: 273px" class="wp-caption alignright">![](img/06/Warwick1-300x300.jpg)
+<div style="width: 273px" class="wp-caption alignright" style="float:right;margin:0 0 20px 20px;"> ![Rebekah Warwick](/img/Warwick1-300x300.jpg)
 
 Rebekah Warwick is the South Central Regional Coordinator for Heritage Action
 
@@ -26,5 +22,3 @@ The [Heritage Foundation](https://www.heritage.org/) founded [Heritage Action fo
 **Rebekah Warwick** is the South Central Regional Coordinator for Heritage Action and will be our guest speaker for this meeting. Rebekah will explain how Heritage Action takes the conservative policy vision outlined by The Heritage Foundation and works with grassroots activists to make that vision successful.
 
 Come and hear!
-
-</div>
