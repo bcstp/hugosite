@@ -17,7 +17,7 @@ theme = "hugo-minimalist-theme"
     avatar = "img/joinordie2.jpg"
     header_background = "img/bluebonnets.jpg"
     header_title = "Bryan/College Station Tea Party"
-    copyright = "Bryan/College Station Tea Party. Powered by [Hugo](https://gohugo.io) and [Netlify](https://www.netlify.com)."
+    copyright = "Bryan/College Station Tea Party. By the grace of God, powered by [Hugo](https://gohugo.io) and [Netlify](https://www.netlify.com)."
     custom_css = []
     custom_js  = []
 
