@@ -1,7 +1,7 @@
 ---
 title: "June meeting: Heritage Action for America"
 date: 2019-06-13T11:53:12-05:00
-summary: "Accountability in the political world is much like a greased pig—unless there is a coordinated effort to achieve that objective. Please welcome Rebekah Warwick from from Heritage Action to our June meeting on Thu. the 20th, 6:30pm at Outback Steakhouse."
+summary: "Please welcome Rebekah Warwick from from Heritage Action to our June meeting on Thu. the 20th, 6:30pm at Outback Steakhouse."
 ---
 
 **_Thursday, June 20, 2019, 6:30 PM_**  
