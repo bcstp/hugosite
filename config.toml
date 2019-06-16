@@ -8,6 +8,7 @@ paginate = 10
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-minimalist-theme"
+sectionPagesMenu = "main"
 
 [params]
     site_author = "B/CS Tea Party"
