@@ -11,13 +11,13 @@ theme = "hugo-minimalist-theme"
 
 [params]
     site_author = "B/CS Tea Party"
-    site_description = ""
+    site_description = "TEA stands for Teach. Empower. Act."
     location = "Bryan/College Station, Texas"
     # Link custom assets relative to /static
     avatar = "img/joinordie2.jpg"
     header_background = "img/bluebonnets.jpg"
     header_title = "Bryan/College Station Tea Party"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    copyright = "Bryan/College Station Tea Party. Powered by [Hugo](https://gohugo.io) and [Netlify](https://www.netlify.com)."
     custom_css = []
     custom_js  = []
 
