@@ -1,0 +1,24 @@
+.site-nav {
+	background-color: #a00;
+	min-height: 40px;
+}
+
+.site-nav ul {
+	margin: 0;
+	overflow: auto;
+	text-align: center;
+}
+
+.site-nav li {
+	display: inline-block;
+	list-style-type: none;
+}
+
+.site-nav li a {
+	color: #fff;
+	display: block;
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	margin: 5px 10px;
+	padding: 5px;
+}
