@@ -13,7 +13,7 @@
 [share]
     title = "Share this article:"
     facebook = "Share on Facebook"
-    twitter = "Tweet this article"
+    twitter = "Tweet this article"  
     linkedin = "Share on Linkedin"
 
 [pagination]
