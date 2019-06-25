@@ -25,7 +25,7 @@ _(Also, check out Publius Huldah’s one-page [**Constitution at a Glance**](/pd
 
 ## Lesson 3: Enumerated Powers continued; bad ideas posing as solutions; and what to do about mismanaging politicians
 
-*   [PowerPoint presentation](http://bcsteaparty.com/wp-content/uploads/2012/08/Constitution-Lesson-3.ppt)
+*   Class presentation— [PDF](/pdf/Constitution-Lesson-3.pdf)
 *   Paper 4: Enumerated Powers of the President — [PDF](/pdf/04-presidents-enumerated-powers.pdf) | [on the PH site](http://publiushuldah.wordpress.com/2011/08/30/the-presidents-enumerated-powers-rulemaking-by-executive-agencies-executive-orders/)
 *   Paper 5: The Proposed 28th Amendment, Another Terrible Idea — [PDF](/pdf/05-proposed-28th-amendment-terrible.pdf) | [on the PH site](http://publiushuldah.wordpress.com/2010/03/26/the-28th-amendment-another-terrible-idea/)
 *   Paper 6: Term Limits, Treating the Symptoms not the Disease — [PDF](/pdf/06-term-limits-treating-the-symptoms.pdf) | [on the PH site](http://publiushuldah.wordpress.com/2010/04/02/term-limits-treating-the-symptom-not-the-disease/)
