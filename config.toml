@@ -6,7 +6,7 @@ paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
 # disqusShortname = "wellokaythen"
 # Enable gogle analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-20501335-1"
 theme = "hugo-minimalist-theme"
 sectionPagesMenu = "main"
 
