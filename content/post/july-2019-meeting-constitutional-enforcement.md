@@ -28,9 +28,12 @@ Looking forward to a great meeting. See you there!
 
 ## Tom Glass Bio
 
-### June 2019
+### June 2019 
 
-![Tom Glass](/img/tom-glass.jpg)  
+<div class="align-right">
+<img src="/img/tom-glass.jpg" alt="Tom Glass">  
+<p>Tom Glass</p>
+</div>
 
 **Tom has spent his life working for limited government.** In the 2015, 2017 and 2019 Texas legislative sessions, he spent his time focused on stopping domestic and foreign enemies of the Constitution from subverting our liberty. On the foreign enemy front, he worked on protecting the Texas electrical grid from attack. On the domestic enemy front, he focused on a constitutional enforcement bill called the Texas Sovereignty Act.  
 
