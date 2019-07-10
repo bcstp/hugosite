@@ -13,7 +13,8 @@ h6,
 	font-weight: bold;
 }
 
-p a {
+p a,
+li a {
 	border-bottom: 1px dotted #a00;
 	color: #a00;
 }

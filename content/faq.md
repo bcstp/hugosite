@@ -31,10 +31,9 @@ Therefore, the B/CS Tea Party’s priorities and purpose are:
 As an educational and advocacy organization, the B/CS Tea Party doesn’t have official “members” per se. But we invite you to consider any or all of the following:
 
 - Come to our meetings! We meet on the third Thursday of each month at various locations—see the homepage for the next one. 
-- Read and submit comments on our website.
-- Join the B/CS Tea Party Facebook Group. It is very active and informative.
-- Sign up for our informational email list. We try to limit our emails to one or two a month, and we won’t give or sell your contact info to anyone.
-- Subscribe to our site updates by RSS.
+- Join the [B/CS Tea Party Facebook Group](https://www.facebook.com/groups/61719179474/). It is very active and informative.
+- [Sign up for our informational email list](/email-signup/). We try to limit our emails to one or two a month, and we won’t give or sell your contact info to anyone.
+- [Subscribe to our site updates by RSS](/post/index.xml).
 
 <hr>  
 
