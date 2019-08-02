@@ -32,7 +32,7 @@ Our motto summarizes the three points in our mission and objectives. It is:
 
 ## Affiliation
 
-We find common ground with other conservative, freedom-loving groups, and work woth them in certain areas. That said, the Bryan/College Station Tea Party is independent, neither officially affiliated with nor subordinate to any other individual or organization.
+We find common ground with other conservative, freedom-loving groups, and work with them in certain areas. That said, the Bryan/College Station Tea Party is independent, neither officially affiliated with nor subordinate to any other individual or organization.
 
 
 
