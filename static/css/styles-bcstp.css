@@ -27,6 +27,7 @@ li a {
 .site-nav ul {
 	margin: 0;
 	overflow: auto;
+	padding: 0;
 	text-align: center;
 }
 
