@@ -3,7 +3,6 @@ title: "Lone Star Agenda"
 date: 2019-08-07T10:27:09-05:00
 description: "This last Texas Legislative session was a disaster. Texas House members, including so-called \'Republicans\' hate conservative principles and are turning/have turned Texas purple, on its way to blue. They are saying, 'What are you gonna do about it?' Here\'s what."
 summary: "This last Texas Legislative session was a disaster. Texas House members, including so-called \'Republicans\' hate conservative principles and are turning Texas purple, on its way to blue. They say, 'So, what are you gonna do about it?' Well, here\'s what!"
-draft: false
 ---
 
 ## <span class="hilite">TEXAS NEEDS YOU NOW!</span>
@@ -38,12 +37,7 @@ We place the constitutional rights of Texans to liberty and self-determination f
 
 We must reform and protect the Texas institutions that are critical to our historical identity as the Lone Star State:  
 
-<ol start="5">
-<li>Improve election integrity (paper ballot backup audit trail; citizenship verification). </li>
-<li>End taxpayer funded lobbying. </li>
-<li>End union dues withholding from public sector paychecks.</li> 
-<li>Protect Texas monuments.  </li>
-</ol>
+<ol start="5"><li>Improve election integrity (paper ballot backup audit trail; citizenship verification).</li><li>End taxpayer funded lobbying.</li><li>End union dues withholding from public sector paychecks.</li><li>Protect Texas monuments.</li></ol>
 
 ### <span class="hilite">Justice and Security</span>
 
