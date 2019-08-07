@@ -10,7 +10,7 @@ draft: false
 
 <div class="align-right" style="width:400px;">
 <img src="/img/come-and-take-it.png" alt="Come and Take It">  
-<p>They came. They're taking it. Our own *&^%$!ing legislators! Now what? <strong>Support the Lone Star Agenda.</strong> <a href="https://www.facebook.com/SaveTexas2020">Start by liking the Facebook page</a>.</p>
+<p>They came. They're taking it. Our own &hellip; legislators! Now what? <strong>Support the Lone Star Agenda.</strong> <a href="https://www.facebook.com/SaveTexas2020">Start by liking the Facebook page</a>.</p>
 </div>
 
 The 86th Texas Legislative Session failed miserably to enact the priorities that the Republican Party of Texas made explicitly clear to the political leadership of Texas.  As a result, many now consider the political landscape in Texas to be Purple and leaning toward Blue!  
