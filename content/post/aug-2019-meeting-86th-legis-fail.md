@@ -21,7 +21,7 @@ The 86th Texas Legislature failed to accomplish the clear and specific expectati
 
 The [Lone Star Agenda, info here](/lone-star-agenda/) (and also [here](https://texasscorecard.com/state/lone-star-agenda-aims-to-unite-texas-republicans/) and [here](https://texasscorecard.com/state/lone-star-agenda-swells-with-signatures/)) has been developed with a focus on Conservative Principles to build unity and excitement among Grassroots Texans. This effort can <strong  class="hilite">Keep Texas Red in 2020</strong> if we work together and stay focused on the timeless Principles of Liberty and Justice For All. 
 
-## Dustin Sensky with Empower Texans, and how we can push this effort forward! 
+## Destin Sensky with Empower Texans, and how we can push this effort forward! 
 
 Destin Sensky serves as a Capitol Correspondent for [Empower Texans](https://empowertexans.com/) and [Texas Scorecard](https://texasscorecard.com/) covering the Texas Legislature. Dustin will be our speaker for this meeting and will discuss how good legislation failed in the 86th Legislature and **how The Lone Star Agenda can turn this situation around.**  
 
