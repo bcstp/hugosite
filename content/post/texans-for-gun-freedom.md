@@ -13,7 +13,7 @@ summary: "Event Thu. Aug. 22 10am in Austin: Gun Owners of America Sounds the Al
 
 [![Texans for Gun Freedom](https://cdn0.thetruthaboutguns.com/wp-content/uploads/2019/08/goa-tgf.jpg)](https://www.thetruthaboutguns.com/goa-sounds-the-alarm-on-the-texas-governors-texas-safety-commission/)    
 
-[Link to the Facebook Event](https://www.thetruthaboutguns.com/goa-sounds-the-alarm-on-the-texas-governors-texas-safety-commission/)  
+[Link to the Facebook Event](https://www.facebook.com/events/1656166511185822/)  
 
 [More info from Rachel Malone of GOA](https://www.facebook.com/rachel.malone.TX/posts/2374144936167578)  
 
