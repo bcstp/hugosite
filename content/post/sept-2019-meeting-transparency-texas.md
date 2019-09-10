@@ -13,6 +13,10 @@ Outback Steakhouse, 2102 Texas Avenue South, College Station</address><br />
 
 The 2020 election season is cranking up and is expected roar through next year.  Decisions about candidates require more than their campaign promises.  Following the money trail reveals alliances that are not apparent in campaign platforms, speeches or flashy slogans. 
 
+<div class="align-right"  style="width:35%;height:auto;">
+<a href="https://www.transparencytexas.org"><img src="/img/transparency-texas-logo.png" alt="Transparency Texas"></a>  
+</div>
+
 Tracy Marshall, Chairman of the Board for **[Transparency Texas](https://www.transparencytexas.org)**, will join us this month to debunk some popular myths about money in politics.
 
 - What’s the truth about so-called “Dark Money”? 
