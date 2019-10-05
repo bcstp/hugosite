@@ -1,5 +1,5 @@
 ---
-title: "2019 Bryan/College Station Candidate Meet and Great Sun. Oct. 6"
+title: "2019 Bryan/College Station Candidate Meet and Greet Sun. Oct. 6"
 date: 2019-10-04T22:02:27-05:00
 description: "A Grand Sunday event at Ice House on Main Downtown Bryan! College Station candidates begin at 3:15, Bryan candidates at 4:15"
 summary: "A Grand Sunday event at Ice House on Main Downtown Bryan! College Station candidates begin at 3:15, Bryan candidates at 4:15"
