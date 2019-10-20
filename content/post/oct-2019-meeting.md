@@ -2,8 +2,8 @@
 
 title: "Oct 2019 Meeting"
 date: 2019-10-15T21:09:53-05:00 
-description: "Oct. Meeting different location (changed again! come to the meeting for details why), different week! Join Mike Sutherland to discuss local issues, Thu., Oct. 24 at C&amp;J Barbeque - Bryan - 1010 S Texas Ave."
-summary: "Oct. Meeting different location (changed again! come to the meeting for details why), different week! Join Mike Sutherland to discuss local issues, Thu., Oct. 24 at C&amp;J Barbeque - Bryan - 1010 S Texas Ave."
+description: "Oct. Meeting different location (changed again! come to the meeting for details why), different week! Join Mike Southerland to discuss local issues, Thu., Oct. 24 at C&amp;J Barbeque - Bryan - 1010 S Texas Ave."
+summary: "Oct. Meeting different location (changed again! come to the meeting for details why), different week! Join Mike Southerland to discuss local issues, Thu., Oct. 24 at C&amp;J Barbeque - Bryan - 1010 S Texas Ave."
 
 ---
 
