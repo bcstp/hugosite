@@ -1,23 +1,18 @@
 ---
 
 title: "Oct 2019 Meeting"
-date: 2019-10-15T21:09:53-05:00
-description: "Oct. Meeting different location, different week! Join Mike Sutherland discuss local issue Thu., Oct. 24 at Bryan Fire Station No. 2 Conference Room"
-summary: "Oct. Meeting different location, different week! Join Mike Sutherland discuss local issue Thu., Oct. 24 at Bryan Fire Station No. 2 Conference Room"
+date: 2019-10-15T21:09:53-05:00 
+description: "Oct. Meeting different location (changed again! come to the meeting for details why), different week! Join Mike Sutherland to discuss local issues, Thu., Oct. 24 at C&amp;J Barbeque - Bryan - 1010 S Texas Ave."
+summary: "Oct. Meeting different location (changed again! come to the meeting for details why), different week! Join Mike Sutherland to discuss local issues, Thu., Oct. 24 at C&amp;J Barbeque - Bryan - 1010 S Texas Ave."
 
 ---
 
 ## Please note this meeting will be held at a different location!!!
 
-> 6:30 PM on Thursday, October 24 (a week later than when we usually meet)
-> **Bryan Fire Station No.2 - Conference Room**  
-> 414 Lawrence Street  
-> Bryan, Texas  
-> **[Map](https://www.google.com/maps/place/414+Lawrence+St,+Bryan,+TX+77801/@30.6461045,-96.358442,3a,75y,339.78h,89.54t/data=!3m6!1e1!3m4!1suE-hQ6hBGsLBiM4gcsuH4w!2e0!7i13312!8i6656!4m5!3m4!1s0x864683d66741b0e9:0xdefd79663c20a898!8m2!3d30.6462335!4d-96.3585795)**  
-
-Park in the lot **behind the Fire Station accessed from Maloney Street.**  Enter the building at the back door by the parking lot.  
-
-### Do not park in the fire truck driveway!  
+> 6:30 PM on Thursday, October 24 (a week later than when we usually meet)  
+> **C&amp;J Barbeque (location changed *again*. Come to the meeting for details why)  
+> 1010 S Texas Ave.**   
+> Bryan    
 
 ## Local & State Issues for the General Election on November 5
 
