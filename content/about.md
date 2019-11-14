@@ -28,7 +28,7 @@ Our objectives are designed to further our mission:
 
 Our motto summarizes the three points in our mission and objectives. It is:
 
-> **Teach. Empower. Act.**
+> **<span style="font-size:36px;color:#a00;display:block;margin:40px 0;">Teach. Empower. Act.</span>**
 
 ## Affiliation
 
