@@ -10,6 +10,9 @@ googleAnalytics = "UA-20501335-1"
 theme = "hugo-minimalist-theme"
 sectionPagesMenu = "main"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
     site_author = "B/CS Tea Party"
     site_description = "Teach. Empower. Act."
