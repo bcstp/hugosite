@@ -1,12 +1,12 @@
 ---
 title: "Hillsdale College Freedom Forum Jan. 8-9 in Kerrville"
 date: 2019-12-28T15:58:25-06:00
-summary: "Freedom and Western Civilization"
-description: "Freedom and Western Civilization"
+summary: "Freedom and Western Civilization — DEADLINE TO REGISTER IS DEC. 31"
+description: "Freedom and Western Civilization — DEADLINE TO REGISTER IS DEC. 31"
 
 ---
 
-## Late notice for a great event!  
+## Late notice for a great event! <span style="color:#a00">DEADLINE TO REGISTER IS DEC. 31!</span>  
 
 From the [Hillsdale website](https://www.hillsdale.edu/event/freedom-forum-jan-2020/):  
 
@@ -22,6 +22,6 @@ Kerrville, Texas</address></br />
 
 The Hillsdale College Freedom Forum will address the theme, “Freedom and Western Civilization.”  
 
-## Registration deadline: January 2, 2020  
+## Registration deadline: Dec. 31!
 
 Details: **[https://www.hillsdale.edu/educational-outreach/freedom-forums/](https://www.hillsdale.edu/educational-outreach/freedom-forums/)**  
