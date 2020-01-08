@@ -11,7 +11,7 @@ This year of 2020 will be an exciting time of campaigning and elections for Fede
 
 ## No regular meeting, so we can <span style="color:#a00">attend the Candidate Forum</span>
 
-The Bryan College Station Tea Party will not have a regular meeting in January 2020, because we want you to attend a forum for the CD-17 Congressional Candidates.  
+The Bryan College Station Tea Party will NOT have a regular meeting in January 2020, because we want you to attend a forum for the CD-17 Congressional Candidates.  
 
 ---
 
