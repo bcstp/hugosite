@@ -1,8 +1,8 @@
 ---
 title: "Feb. 2020 Primary Election Discussion"
 date: 2020-02-11T21:30:10-06:00
-description: "Primary Election Day March 3&mdash;Who Will/Should You Vote For?"
-summary: "Primary Election Day March 3&mdash;Who Will/Should You Vote For?"
+description: "Primary Election Day March 3—Who Will/Should You Vote For?"
+summary: "Primary Election Day March 3—Who Will/Should You Vote For?"
 ---
 
 **_Thursday, Feb. 20, 2020, 6:30 PM_**   
