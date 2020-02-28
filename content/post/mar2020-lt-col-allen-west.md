@@ -19,4 +19,4 @@ Come a little early so you can get through the line to grab some great BBQ and 
 
 ## Please RSVP soon!
 
-Please RSVP as soon as possible to sel0730@pobox.com for space planning purposes.
+Please RSVP as soon as possible to <a href="mailto:sel0730@pobox.com">sel0730@pobox.com</a> for space planning purposes.
