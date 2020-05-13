@@ -27,7 +27,7 @@ Terri Hall, Executive Director for (TURF) will be our speaker and will share inf
 
 You do not want to miss this presentation!
 
-## Please RSVP so the venue can insure that we can keep our distance
+## Please RSVP so the venue can ensure that we can keep our distance
 
 **Please RSVP to <bcsteaparty@gmail.com>** so that Outback can set up our room to ensure that we're not too close to each other. We'll have a few masks available if folks prefer to use these also. 
 
