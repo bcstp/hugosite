@@ -1,8 +1,8 @@
 ---
-title: "July 2020 No Meeting"
+title: "July 2020 No Meeting Due to Republican Party of Texas Convention"
 date: 2020-07-14T12:03:00-05:00
-description: "Bryan/College Station Tea Party will not hold a meeting during the month of July 2020"
-summary: "Bryan/College Station Tea Party will not hold a meeting during the month of July 2020"
+description: "Bryan/College Station Tea Party will not hold a meeting during the month of July 2020 due to the state convention"
+summary: "Bryan/College Station Tea Party will not hold a meeting during the month of July 2020 due to the state convention"
 ---
 
 ## The Bryan/College Station Tea Party will not hold a meeting during the month of July 2020.
