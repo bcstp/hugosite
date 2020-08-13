@@ -1,14 +1,14 @@
 ---
-title: "May 2020 meeting (yes, we are!): Texans United for Reform and Freedom"
+title: "May 2020 meeting (POSTPONED UNTIL AUGUST): Texans United for Reform and Freedom"
 date: 2020-05-13T10:19:18-05:00
-description: "WE ARE MEETING! Let's welcome Terri Hall of Texans United for Reform and Freedom (TURF). Please RSVP!"
-summary: "WE ARE MEETING! Let's welcome Terri Hall of Texans United for Reform and Freedom (TURF). Please RSVP!"
+description: "(POSTPONED UNTIL AUGUST) Let's welcome Terri Hall of Texans United for Reform and Freedom (TURF). Please RSVP!"
+summary: "(POSTPONED UNTIL AUGUST) Let's welcome Terri Hall of Texans United for Reform and Freedom (TURF). Please RSVP!"
 ---
 
 **_Thursday, May 21, 2020, 6:30 PM_**  
 **_<strong><span class="hilite">Outback Steakhouse</span></strong>, 2102 Texas Avenue South, College Station_**
 
-## WE ARE MEETING! (NOTE: please see below for RSVP)  
+## note: POSTPONED UNTIL AUGUST 
 
 ## Public-private partnerships are good, right? Or not...
 
