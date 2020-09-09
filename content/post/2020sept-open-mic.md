@@ -15,9 +15,9 @@ summary: "Upcoming general election, civil unrest, judicial misconduct, media di
 > ***Woe to those who call evil good
 >	and good evil**,  
 > *who put darkness for light*
-> and light for darkness,  
-> who put bitter for sweet
-> and sweet for bitter!*  
+> *and light for darkness,*  
+> *who put bitter for sweet*
+> *and sweet for bitter!*  
 > [Isaiah 5:20](https://www.biblegateway.com/passage/?search=Isaiah+5%3A20&version=ESV&interface=print), emphasis added
 
 ## Current Issues. We have 'em
