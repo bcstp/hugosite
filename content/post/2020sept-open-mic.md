@@ -1,8 +1,8 @@
 ---
 title: "September 2020 Meeting: Open Mic"
 date: 2020-09-09T10:06:09-05:00
-description: "Upcoming general election, civil unrest, judicial misconduct, media distortion of facts, fakedemic, evil being proclaimed to be good..."
-summary: "Upcoming general election, civil unrest, judicial misconduct, media distortion of facts, fakedemic, evil being proclaimed to be good..."
+description: "Upcoming general election, civil unrest, judicial misconduct, media distortion of facts, a fakedemic, evil being proclaimed to be good..."
+summary: "Upcoming general election, civil unrest, judicial misconduct, media distortion of facts, a fakedemic, evil being proclaimed to be good..."
 ---
 
 **_Thursday, Sept. 17, 2020, 6:30 PM_**  
@@ -14,7 +14,7 @@ summary: "Upcoming general election, civil unrest, judicial misconduct, media di
 
 > ***Woe to those who call evil good
 >	and good evil**,  
-> who put darkness for light
+> *who put darkness for light*
 > and light for darkness,  
 > who put bitter for sweet
 > and sweet for bitter!*  
@@ -22,7 +22,7 @@ summary: "Upcoming general election, civil unrest, judicial misconduct, media di
 
 ## Current Issues. We have 'em
 
-Many current issues have most of us very concerned about the future of our way of life and the liberty we enjoy. The upcoming general election, civil unrest, judicial misconduct, media distortion of facts, wholesale business destruction by quaratining healthy people (!?), and **evil being proclaimed to be good are a mere sampling of the upside-down world we live in today.**  
+Many current issues have most of us very concerned about the future of our way of life and the liberty we enjoy. The upcoming general election, civil unrest, judicial misconduct, media distortion of facts, wholesale business destruction by quarantining healthy people (!?), and **evil being proclaimed to be good are a mere sampling of the upside-down world we live in today.**  
 
 ## Open mic night. Preach it
 
