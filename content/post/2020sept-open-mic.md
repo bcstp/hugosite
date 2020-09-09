@@ -12,7 +12,7 @@ summary: "Upcoming general election, civil unrest, judicial misconduct, media di
 
 ---
 
-> ***Woe to those who call evil good
+> ***Woe to those who call evil good*
 >	and good evil**,  
 > *who put darkness for light*
 > *and light for darkness,*  
