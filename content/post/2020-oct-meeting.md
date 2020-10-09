@@ -26,7 +26,7 @@ We encourage you to go to [brazosvotes.org](http://brazosvotes.org/) and downloa
 
 ## Volunteers/helpers/prayer teams welcomed
 
-One example: **the Texas GOP is offering Poll Watcher online training, sessions offered this Friday through Monday.** If you've not received the email from them, and you are interested, let us know at [bcsteaparty@gmail.com](mailto:bcsteaparty@gmail.com).  
+One example: **the Texas GOP is offering Poll Watcher online training, with sessions being offered this Friday through Monday.** If you've not received the email from them, and you are interested, let us know at [bcsteaparty@gmail.com](mailto:bcsteaparty@gmail.com).  
 
 If you can help out in other ways, let us know at the meeting! 
 
