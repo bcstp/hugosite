@@ -8,7 +8,7 @@ summary: "Upcoming general election, civil unrest, judicial misconduct, media di
 **_Thursday, Sept. 17, 2020, 6:30 PM_**  
 **_<strong><span class="hilite">Outback Steakhouse</span></strong>, 2102 Texas Avenue South, College Station_**
 
-## Consider arriving early or dinner and discussion!
+## Consider arriving early for dinner and discussion!
 
 ---
 
