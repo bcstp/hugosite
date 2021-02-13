@@ -1,8 +1,8 @@
 ---
 title: "February 2021 — Miguel Ángel Martín-Tortabu, Venezuelan Supreme Court Justice in exile"
 date: 2021-02-12T16:47:24-06:00
-summary: ""
-description: ""
+summary: "Miguel Martín-Tortabu will tell us about how corruption escalates and people suffer with fraudulent elections."
+description: "Miguel Martín-Tortabu will tell us about how corruption escalates and people suffer with fraudulent elections."
 ---
 
 **_Thursday, February 18, 2021, 6:30 PM_**  
