@@ -1,11 +1,19 @@
 ---
-title: "February 2021 — Miguel Ángel Martín-Tortabu, Venezuelan Supreme Court Justice in exile (POSTPONED)"
+title: "February 2021 — Miguel Ángel Martín-Tortabu, Venezuelan Supreme Court Justice in exile (Now RESCHEDULED to FRIDAY FEB. 26)"
 date: 2021-02-12T16:47:24-06:00
 summary: "Miguel Martín-Tortabu will tell us about how corruption escalates and people suffer with fraudulent elections."
 description: "Miguel Martín-Tortabu will tell us about how corruption escalates and people suffer with fraudulent elections."
 ---
 
-# Meeting POSTPONED
+# Meeting RESCHEDULED
+
+
+**_<strong><span class="hilite">Friday, February 26, 2021</span></strong> at 6:30 PM_**  
+**_Outback Steakhouse, 2102 Texas Avenue South, College Station_**  
+
+Consider arriving early for dinner and fellowship before the meeting!  
+
+---
 
 ## The US has suffered national election fraud. Venezuela has been there.
 

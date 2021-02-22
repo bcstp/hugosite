@@ -1,16 +1,15 @@
 ---
-title: "February 2021 Meeting POSTPONED"
+title: "February 2021 Meeting NOW RESCHEDULED"
 date: 2021-02-17T10:43:12-06:00
-summary: "No meeting this week"
-description: "No meeting this week"
+summary: "We'll be meeting Friday, February 26 at Outback"
+description: "We'll be meeting Friday, February 26 at Outback"
 ---
 
-## February Meeting POSTPONED
+## Meeting RESCHEDULED:
 
-## No meeting this week
+**_<strong><span class="hilite">Friday, February 26, 2021</span></strong> at 6:30 PM_**  
+**_Outback Steakhouse, 2102 Texas Avenue South, College Station_**  
 
-Our regularly scheduled February meeting with Miguel Ángel Martín-Tortabu **is being postponed** due to the combination of power outages, freezing temps and dangerous driving conditions.  
-
-Please watch your email and/or the B/CS Tea Party website, [bcsteaparty.com](https://www.bcsteaparty.com) for updates on rescheduling.  
-
-Thanks, and stay safe and warm!  
+Consider arriving early for dinner and fellowship before the meeting!  
+ 
+**[MORE](https://www.bcsteaparty.com/post/2021-feb-martin-tortabu/)**  
