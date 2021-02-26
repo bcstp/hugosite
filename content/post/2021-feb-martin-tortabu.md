@@ -10,7 +10,7 @@ description: "Miguel Martín-Tortabu will tell us about how corruption escalates
 
 Consider arriving early for dinner and fellowship before the meeting!  
 
-**_<strong><a href="/doc/Electoral-integrity-and-International-threat_022521.pdf" class="hilite" style="font-size:18px;">DOWNLOAD Dr. Martín's Speech</a></strong>_**  
+**<strong><a href="/doc/Electoral-integrity-and-International-threat_022521.pdf" class="hilite" style="font-size:18px;">DOWNLOAD Dr. Martín's Speech</a></strong>**  
 
 ---
 
