@@ -5,13 +5,12 @@ summary: "Miguel Martín-Tortabu will tell us about how corruption escalates and
 description: "Miguel Martín-Tortabu will tell us about how corruption escalates and people suffer with fraudulent elections."
 ---
 
-# Meeting RESCHEDULED
-
-
 **_<strong><span class="hilite">Friday, February 26, 2021</span></strong> at 6:30 PM_**  
 **_Outback Steakhouse, 2102 Texas Avenue South, College Station_**  
 
 Consider arriving early for dinner and fellowship before the meeting!  
+
+**_<strong><a href="/doc/Electoral-integrity-and-International-threat_022521.pdf" class="hilite" style="font-size:18px;">DOWNLOAD Dr. Martín's Speech</a></strong>_**  
 
 ---
 
@@ -22,7 +21,9 @@ Consider arriving early for dinner and fellowship before the meeting!
 <p>Miguel Ángel Martín-Tortabu</p>
 </div>
 
-**<strong><span class="hilite">Our speaker this month is a Venezuelan Supreme Court Justice in exile.</span></strong>** Miguel Ángel Martín-Tortabu was appointed President of the Venezuelan Supreme Court of Justice by the National Assembly (Congress) in July 2017.   
+### Our speaker this month is a Venezuelan Supreme Court Justice in exile.
+
+Miguel Ángel Martín-Tortabu was appointed President of the Venezuelan Supreme Court of Justice by the National Assembly (Congress) in July 2017.   
 
 Martín-Tortabu, along with the other Supreme Court Judges and at least 60 other political and government leaders that opposed election fraud and the results of that fraud in Venezuela, have **fled or been forced to leave the country.** Their homes were raided, relatives harassed, assets and bank accounts were frozen and were subjected to military trial courts based on false charges. Some live openly in exile while others live a secret hidden life.  
 
