@@ -15,7 +15,11 @@ Grassroots conservatives must go all out now to stop disgusting trojan horse bil
 
 **The low bill number means this is a bill Speaker Dade Phelan supports, which means it is a bill Governor Abbott wants.**  There are tentacle placeholder bills over in the TX Senate.  All of this means that HB 3 is a bill we can expect to be fast-tracked by Republicans having their arms twisted.
 
-## What’s so bad about HB 3? It would give the state government AND WHITE HOUSE MORE POWER to do the bad things they've already started.
+## What’s so bad about HB 3? <span style="color:red;">It would give the state government AND the White House *MORE* power</span> to do the bad things they've already started.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6dQWZt6Jj6w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Text of House Bill 3](https://capitol.texas.gov/BillLookup/Text.aspx?LegSess=87R&Bill=HB3)  
 
 Deceptively promoted as a curb on the Governor’s executive powers, **HB 3 actually gives “pandemic” its own section in the law, states the “purpose” of the bill is to “strengthen the role(s) of the governor” and smacks Dr. Fauci/Biden/CDC recommendations down on Texas!**  
 
