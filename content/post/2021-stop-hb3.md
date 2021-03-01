@@ -31,4 +31,4 @@ Make HB 3 so toxic that no State Representative will sign on to Burrows’ HB 3 
  
 To find phone and social media contact info for your TX State Representative, go to the new and outstanding [Texas Scorecard Directory by clicking here](https://directory.texasscorecard.com/). Here are the direct links to our state legislators: **[John Raney](https://directory.texasscorecard.com/legislators/john-raney)** and **[Kyle Kacal](https://directory.texasscorecard.com/legislators/kyle-kacal).**  
 
-## Contact them now and say NO TO HB 3!  
+## <span style="color:red;">Contact them now and say NO TO HB 3!</span>  
