@@ -1,5 +1,5 @@
 ---
-title: "Grassroots Texans: HELP STOP HB 3!"
+title: "Grassroots Texans: HELP STOP Texas House Bill HB 3!"
 date: 2021-03-01T10:57:51-06:00
 ---
 
