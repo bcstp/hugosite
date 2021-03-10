@@ -18,7 +18,7 @@ description: "Jonathan Covey, the Director of Policy for Texas Values, will be o
 
 ## Fighting for faith, family, and freedom in Texas
 
-Our guest speaker will be [Jonathan Covey](https://txvalues.org/), the Director of Policy for Texas Values, a nonprofit group dedicated to fighting for faith, family, and freedom in the state of Texas.  
+Our guest speaker will be **Jonathan Covey**, the Director of Policy for **[Texas Values](https://txvalues.org/)**, a nonprofit group dedicated to fighting for faith, family, and freedom in the state of Texas.  
 
 The Texas Values mission is to preserve and advance a culture of family values in the state of Texas.
 The Texas Values vision is to stand for **biblical, Judeo-Christian values** by ensuring Texas is a state in which ***religious liberty flourishes, families prosper, and every human life is valued.***  
