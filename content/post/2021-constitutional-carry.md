@@ -26,7 +26,7 @@ CALL State Senator Schwertner at **<span class="hilite">(512) 463-0105.</span>**
 
 ### The Lieutenant Governor, who presides over the State Senate, needs to hear from us. *Our greatest hurdle may be Dan Patrick.*
 
-CALL Dan Patrick at **<span class="hilite">(512) 463-0001</span>**.  
+CALL Lieutenant Governor Dan Patrick at **<span class="hilite">(512) 463-0001</span>**.  
 
 **[EMAIL Lieutenant Governor Dan Patrick here.](https://www.ltgov.texas.gov/contact/contact-general/)**   
 
