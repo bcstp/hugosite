@@ -44,3 +44,16 @@ This has proven to be costly in the long run&mdash;for our privacy, and our abil
 Big Tech has taken advantage of our desire not to have to learn more about the details of what happens in the background when we work and converse online. Indeed, they've designed their services to keep us from having to know more.  
 
 E.g, we may not need to understand encryption, but we do need to remember to check that our communications *are* encrypted.  
+
+---
+
+## So, some possible starting points
+
+Starting with Google, possible changes are:
+
+- Web search: google.com -> duckduckgo.com
+- Web browser: Google Chrome -> Brave Browser
+- Email: Gmail -> Proton Mail
+- Docs: Google Docs -> Skiff.org (this is very new) 
+
+As with many things, there are possible plusses and minusses of each to consider. We will discuss at our meetings. Looking forward!  
