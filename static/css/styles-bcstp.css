@@ -24,7 +24,8 @@ h6,
 }
 
 p a,
-li a {
+li a,
+td a {
 	border-bottom: 1px dotted #a00;
 	color: #a00;
 }
@@ -79,4 +80,25 @@ li a {
 
 hr {
 	border-top: 1px #222 solid;
+}
+
+
+table {
+	border-left: 1px #444 solid;
+	border-top: 1px #444 solid;
+	margin: 5px 0 15px;
+}
+
+th,
+td {
+	border-bottom: 1px #444 solid;
+	border-right: 1px #444 solid;
+	padding: 5px 10px 10px;
+}
+
+th {
+	text-align: left;
+	background-color: #444;
+	color: #fff;
+	padding: 5px 40px 10px 10px;
 }

@@ -35,11 +35,11 @@ It would require too much of a normal, otherwise productive person’s time.
 
 ### 4. Sometimes we will have to consider paying for services that we've previously received for "free"
 
-This has proven to be costly in the long run&mdash;for our privacy, and our ability to communicate freely.
+We have gotten used to using extremely valuable products without having to pay money up front. This has proven to be costly in the long run&mdash;for our privacy, and our ability to communicate freely.
 
 ---
 
-### 5. As an act of patriotism, we may need to learn more about the technical side of communicating online
+### 5. We may need to learn more about the technical side of communicating online
 
 Big Tech has taken advantage of our desire not to have to learn more about the details of what happens in the background when we work and converse online. Indeed, they've designed their services to keep us from having to know more.  
 
@@ -49,11 +49,16 @@ E.g, we may not need to understand encryption, but we do need to remember to che
 
 ## So, some possible starting points
 
-Starting with Google, possible changes are:
+Starting with Google, possible changes are (NOTE: see #1 above. This list will grow and update!):
 
-- Web search: google.com -> duckduckgo.com
-- Web browser: Google Chrome -> Brave Browser
-- Email: Gmail -> Proton Mail
-- Docs: Google Docs -> Skiff.org (this is very new) 
+| Tool Needed  | Google Product  | Recommended Product(s)  |
+|---|---|---|
+| **Web search**  | google.com  | DuckDuckGo, <br>[Qwant](https://www.qwant.com/)  |
+| **Web browser**  | Google Chrome  | Brave Browser, <br>[Pale Moon Browser](https://www.palemoon.org/)  |
+| **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)  |
+| **Maps**  | Google Maps  | (under review. Note: NOT Waze; Google bought them)  |
+|  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(this is very new)  |
+
+
 
 As with many things, there are possible plusses and minusses of each to consider. We will discuss at our meetings. Looking forward!  
