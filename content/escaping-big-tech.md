@@ -29,7 +29,7 @@ We must all rely on one another, and check on and help each other. **Find those 
 
 It would require too much of a normal, otherwise productive person’s time.  
 
-**Therefore, don’t get frustrated in the process!** Or at least, work on continually improving *managing* your frustration.  
+**Therefore, don’t get frustrated and/or overwhelmed in the process!** Or at least, work on continually improving *managing* your frustration.  
 
 ---
 

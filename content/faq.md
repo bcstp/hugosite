@@ -8,15 +8,20 @@ date: 2019-06-13T11:51:31-05:00
 
 The B/CS Tea Party is an independent organization, neither affiliated with nor subordinate to any other individual or organization. We do not financially support any group, other than trying to do so for ourselves. Our motto:
 
-### Teach. Empower. Act.
+**<span style="font-size:36px;color:#a00;display:block;margin:40px 0;">Teach. Empower. Act.</span>**
 
-While the beginning of the Tea Party in general was a national tax protest (“Taxed Enough Already”), as time passed it became clear that government overspending was a symptom of a greater problem—**a country abandoning its founding principles.**  
+While the beginning of the Tea Party in general was a national tax protest (“Taxed Enough Already”), as time passed it became clear that government overspending was a symptom of a greater problem—**a nation abandoning its founding principles.**  
 
-Why this country has been strong and prosperous in the past:
+## Why this nation has succeeded so far:
 
-#### The principles and wisdom contained in the Declaration of Independence, the Federalist Papers, and the U.S. Constitution, and its citizens accepting their responsibility to learn and live by them, are the reasons for the success of this country.
+- A reliance on our Creator (a Nation under God)
+- The principles and wisdom contained in the Declaration of Independence, 
+- the Federalist Papers,  
+- the U.S. Constitution, and 
+- its citizens accepting their responsibility to learn and live by them
+ 
 
-As its citizens forget our founding principles and responsibilities, and dishonorable elected officials circumvent and deny them, our nation and its future are put in drastic danger.
+As its citizens forget our founding principles and responsibilities, and dishonorable elected officials circumvent and deny them, our nation and its future **are put in increasing danger.**  
 
 Therefore, the B/CS Tea Party’s priorities and purpose are:
 
@@ -43,6 +48,6 @@ The B/CS Tea Party started with the effort and support of many hundreds of indiv
 
 The B/CS Tea Party, as well as the Tea Party nationally, started as a protest against accelerating overstepping by the federal government of its constitutional authority.  
 
-Here in Bryan/College Station, Bryan resident Nancy Coppock saw the need for a local group, focused on this country’s founding principles. In March of 2009 she started this website and began planning, with the help of many people also motivated to do the same, the original April 15 Tea Party event.   
+Here in Bryan/College Station, Bryan resident Nancy Coppock saw the need for a local group, focused on this nation’s founding principles. In March of 2009 she started this website and began planning, with the help of many people also motivated to do the same, the original April 15 Tea Party event.   
 
 We are so grateful to each person who has, is, and will be part of getting this country back to its founding principles.  
