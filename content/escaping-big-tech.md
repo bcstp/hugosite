@@ -35,7 +35,7 @@ It would require too much of a normal, otherwise productive person’s time.
 
 ### 4. Sometimes we will have to consider paying for services that we've previously received for "free"
 
-We have gotten used to using extremely valuable products without having to pay money up front. This has proven to be costly in the long run&mdash;for our privacy, and our ability to communicate freely.
+We have gotten used to using extremely valuable products without having to pay money up front. This has proven to be costly in the long run&mdash;for our privacy, and for our ability to communicate freely.
 
 ---
 
@@ -47,16 +47,22 @@ E.g, we may not need to understand encryption, but we do need to remember to che
 
 ---
 
+### 6. We may need to work more to get things done
+
+Some things that Big Tech has made easy for us to do, may now require more of our hands-on effort.  
+
+---
+
 ## So, some possible starting points
 
 Starting with Google, possible changes are (NOTE: see #1 above. This list will grow and update!):
 
 | Tool Needed  | Google Product  | Recommended Product(s)  |
 |---|---|---|
-| **Web search**  | google.com  | DuckDuckGo, <br>[Qwant](https://www.qwant.com/)  |
-| **Web browser**  | Google Chrome  | Brave Browser, <br>[Pale Moon Browser](https://www.palemoon.org/)  |
+| **Web search**  | google.com  | <strike>DuckDuckGo,</strike> (no longer recommended!) <br>[Qwant](https://www.qwant.com/)  |
+| **Web browser**  | Google Chrome  | [Brave Browser](https://brave.com/), <br>[Pale Moon Browser](https://www.palemoon.org/)  |
 | **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)  |
-| **Maps**  | Google Maps  | (under review. Note: NOT Waze; Google bought them)  |
+| **Maps**  | Google Maps  | Wait for it...use a dedicated GPS! Like we did 15 years ago!  |
 |  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(this is very new)  |
 
 
