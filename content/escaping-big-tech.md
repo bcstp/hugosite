@@ -62,7 +62,7 @@ Starting with Google, possible changes are (NOTE: see #1 above. This list will g
 | **Web search**  | google.com  | <strike>DuckDuckGo,</strike> (no longer recommended!) <br>[Qwant](https://www.qwant.com/)  |
 | **Web browser**  | Google Chrome  | [Brave Browser](https://brave.com/), <br>[Pale Moon Browser](https://www.palemoon.org/)  |
 | **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)  |
-| **Maps**  | Google Maps  | Wait for it...use a dedicated GPS! Like we did 15 years ago!  |
+| **Maps**  | Google Maps  | Use a dedicated GPS! |
 |  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(this is very new)  |
 
 
