@@ -3,7 +3,15 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>{{ if .IsNode}}{{ .Title }} &middot; {{end}}{{ .Site.Title }}</title>
+
+        <!-- <title>{{ if .IsNode}}{{ .Title }} &middot; {{end}}{{ .Site.Title }}</title> -->
+        {{ if .IsHome -}}
+          <title>{{ .Site.Title }}</title>
+        {{- else -}}
+          <title>{{ .Title }} – {{ .Site.Title }}</title>
+        {{- end }}
+        <!-- Thank you!!! https://harrycresswell.com/articles/hugo-seo-accurate-page-titles/ -->
+
         <meta name="author">
         <meta name="description" content="{{ .Site.Params.site_description }}">
         <meta name="viewport" content="width=device-width, initial-scale=1">
