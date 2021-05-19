@@ -15,9 +15,10 @@ While the beginning of the Tea Party in general was a national tax protest (“T
 ## Why this nation has succeeded so far:
 
 - A reliance on our Creator (a Nation under God)
-- The principles and wisdom contained in the Declaration of Independence, 
-- the Federalist Papers,  
-- the U.S. Constitution, and 
+- The principles and wisdom contained in
+	- the Declaration of Independence, 
+	- the Federalist Papers,  
+	- the U.S. Constitution, and 
 - its citizens accepting their responsibility to learn and live by them
  
 
@@ -33,12 +34,13 @@ Therefore, the B/CS Tea Party’s priorities and purpose are:
 
 ## Can I become a member of the B/CS Tea Party?
 
-As an educational and advocacy organization, the B/CS Tea Party doesn’t have official “members” per se. But we invite you to consider any or all of the following:
+As an informal educational and advocacy organization, the B/CS Tea Party doesn’t have official “members” per se. But we invite you to consider any or all of the following:
 
 - Come to our meetings! We meet on the third Thursday of each month at various locations—see the homepage for the next one. 
 - Join the [B/CS Tea Party Facebook Group](https://www.facebook.com/groups/61719179474/). It is very active and informative.
 - [Sign up for our informational email list](/email-signup/). We try to limit our emails to one or two a month, and we won’t give or sell your contact info to anyone.
 - [Subscribe to our site updates by RSS](/post/index.xml).
+- Click the <a href="mailto:bcsteaparty@protonmail.com?subject=contact from website" title="Email">Contact Us</a> link above with questions.
 
 <hr>  
 
