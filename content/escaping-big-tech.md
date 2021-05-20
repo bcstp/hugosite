@@ -64,6 +64,7 @@ Starting with Google, possible changes are (NOTE: see #1 above. This list will g
 | **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)  |
 | **Maps**  | Google Maps  | Use a dedicated GPS! |
 |  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(this is very new)  |
+|  **Online Storage** | Google Drive  | [Tresorit](https://tresorit.com/),<br>[Proton Drive](https://protonmail.com/blog/protondrive-security/) |
 
 
 
