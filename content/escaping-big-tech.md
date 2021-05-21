@@ -67,5 +67,23 @@ Starting with Google, possible changes are (NOTE: see #1 above. This list will g
 |  **Online Storage** | Google Drive  | [Tresorit](https://tresorit.com/),<br>[Proton Drive](https://protonmail.com/blog/protondrive-security/) |
 
 
-
 As with many things, there are possible plusses and minusses of each to consider. We will discuss at our meetings. Looking forward!  
+
+--- 
+
+**[Various quotes from the May 20th meeting](/post/2021-may-big-tech/#quotes)**  
+
+---
+
+## Wow. This website seeks to keep track of *all* the companies that we should avoid supporting:
+
+**<span class="hilite" style="font-size:32px;margin-top:25px;display:block;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**  
+
+This website describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.      
+
+---
+
+
+
+
+
