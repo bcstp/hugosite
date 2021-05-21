@@ -75,11 +75,21 @@ As with many things, there are possible plusses and minusses of each to consider
 
 ---
 
-## Wow. This website seeks to keep track of *all* the companies that we should avoid supporting:
+## Various links
 
-**<span class="hilite" style="font-size:32px;margin-top:25px;display:block;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**  
+### 1. Cancel This Company seeks to keep track of *all* the companies that we should avoid supporting:
 
-This website describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.      
+**<span class="hilite" style="font-size:24px;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**  
+
+This website describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.  
+
+---
+
+### 2. Consumers' Research 
+
+**<span class="hilite" style="font-size:24px;">[ConsumersResearch.org](https://consumersresearch.org/)</span>**    
+
+Consumers' Research has as its mission "to increase the knowledge and understanding of issues, policies, products, and services of concern to consumers and to promote the freedom to act on that knowledge and understanding."
 
 ---
 
