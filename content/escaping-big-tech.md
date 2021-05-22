@@ -77,11 +77,11 @@ As with many things, there are possible plusses and minusses of each to consider
 
 ## Various links
 
-### 1. Cancel This Company seeks to keep track of *all* the companies that we should avoid supporting:
+### 1. Cancel This Company 
 
 **<span class="hilite" style="font-size:24px;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**  
 
-This website describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.  
+This website seeks to keep track of *all* the companies that we should avoid supporting. It describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.  
 
 ---
 
