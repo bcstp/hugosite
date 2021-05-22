@@ -102,3 +102,13 @@ th {
 	color: #fff;
 	padding: 5px 40px 10px 10px;
 }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  margin-left: 0;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
