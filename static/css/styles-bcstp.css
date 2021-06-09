@@ -112,3 +112,10 @@ blockquote {
     margin-top: 0; }
   blockquote > :last-child {
     margin-bottom: 0; }
+
+
+abbr[title] {
+	border-bottom: 1px dotted;
+	border-color: #777;
+	text-decoration: 0;
+}
