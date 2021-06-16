@@ -13,6 +13,10 @@ h6,
 	font-weight: bold;
 }
 
+li {
+	margin-bottom: 8px !important;
+}
+
 .post h2 {
 	margin-bottom: 7px;
 	margin-top: 24px !important;
@@ -29,6 +33,8 @@ td a {
 	border-bottom: 1px dotted #a00;
 	color: #a00;
 }
+
+
 
 .site-nav {
 	background-color: #a00;
