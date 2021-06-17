@@ -28,21 +28,22 @@ Starting with Google, possible changes are (NOTE: see #1 above. This list will g
 | **Web browser**  | Google Chrome  | [Brave Browser](https://brave.com/), <br>[Pale Moon Browser](https://www.palemoon.org/)  |
 | **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)  |
 | **Maps**  | Google Maps  | Use a dedicated GPS! |
-|  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(this is still in beta form, but seems to be working well)  |
+|  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(still in limited beta form; working well)  |
 |  **Online Storage** | Google Drive  | [Tresorit](https://tresorit.com/),<br>[Proton Drive](https://protonmail.com/blog/protondrive-security/) |
 |  **Calendar** | Google Calendar  | [Proton Calendar](https://calendar.protonmail.com/) (still quite new) |
-|  **Online translator** | Google Translate | [Still considering](https://blog.bit.ai/best-google-translate-alternatives/) (anyone have suggestions?) |
+|  **Online language translator** | Google Translate | [Still considering](https://blog.bit.ai/best-google-translate-alternatives/) (anyone have suggestions?) |
+|  **Website traffic data** | Google Analytics | [StatCounter](https://statcounter.com/)? <br />[Plausible](https://plausible.io/)? |
 
-As with many things, there are possible plusses and minusses of each to consider. We will discuss at our meetings. Looking forward!  
+There are definintely plusses and minusses of each to consider. We will discuss at our meetings. Looking forward!  
 
 ---
 
 ## Various links
-**<span class="hilite" style="font-size:20px;margin: 20px 0 0;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**. This website seeks to keep track of *all* the companies that we should avoid supporting. It describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.  
+**<span class="hilite" style="font-size:20px;margin: 20px 0 0;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**<br />This website seeks to keep track of *all* the companies that we should avoid supporting. It describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.  
 
-**<span class="hilite" style="font-size:20px;margin-bottom:0;">[Consumers' Research](https://consumersresearch.org/)</span>** has as its mission "to increase the knowledge and understanding of issues, policies, products, and services of concern to consumers and to promote the freedom to act on that knowledge and understanding."
+**<span class="hilite" style="font-size:20px;margin-bottom:0;">[Consumers' Research](https://consumersresearch.org/)</span>** <br />Its mission: "to increase the knowledge and understanding of issues, policies, products, and services of concern to consumers and to promote the freedom to act on that knowledge and understanding."
 
-**<span class="hilite" style="font-size:20px;">[Rob Braxman, the Privacy Guy](https://brax.me/home/rob)</span>**.  Much of his content is on...Google-owned YouTube?! Well, maybe start here: **[WhatTheZuck.net](https://whatthezuck.net/wtz/)**.  
+**<span class="hilite" style="font-size:20px;">[Rob Braxman, the Internet Privacy Guy](https://brax.me/home/rob)</span>**<br />Much of his content is on...Google-owned YouTube?! **[Watch on odysee instead](https://odysee.com/@RobBraxmanTech:6)**. Or, start here: **[WhatTheZuck.net](https://whatthezuck.net/wtz/)**.  
 
 **[Various quotes from the May 20th meeting](/post/2021-may-big-tech/#quotes)**  
 
