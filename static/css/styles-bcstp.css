@@ -22,6 +22,10 @@ li {
 	margin-top: 24px !important;
 }
 
+.post h3 {
+	margin-bottom: 7px;
+}
+
 .post p {
 	margin-bottom: 20px;
 	margin-top: 0;

@@ -5,13 +5,25 @@ summary: "Intro: This is a Process!"
 description: "Intro: This is a Process!"
 ---
 
-## Intro: This is a Process!
+## Our two main goals
+
+### *1. Protect our online privacy*
+
+Big tech companies make money by using our personal data. It's up to us whether we go along with this or not.  
+
+### *2. Stop supporting those companies working against us*
+
+The [Cancel This Company website](https://www.cancelthiscompany.com/) does a good job keeping track of this, with details.    
+
+---
+
+## Remember: This is a Process!
 
 As we begin working through escaping Big Tech, remember the following:  
 
 1. **This is a *moving target***. What we know today may well be different tomorrow. We can almost count on it.  
 2. **NO ONE knows everything about this.** We must all rely on one another, and check on and help each other. Find those you know who can help, and ask them *to* help. 
-3. **Almost *no one* is doing this all perfectly.** Don’t get frustrated and/or overwhelmed in the process!** Or at least, work on continually improving *managing* your frustration.  
+3. **Almost *no one* is doing this all perfectly.** Don’t get frustrated and/or overwhelmed in the process! Or at least, work on continually improving *managing* your frustration.  
 4. **Sometimes we will have to consider paying for services that we've previously received for "free"**. We have gotten used to using extremely valuable products without having to pay money up front. This has proven to be costly in the long run&mdash;for our privacy, and for our ability to communicate freely.
 5. **We may need to learn more about the technical side of communicating online.** Big Tech has taken advantage of our desire not to have to learn more about the details of what happens in the background when we work and converse online. Indeed, they've designed their services to keep us from having to know more.  E.g, we may not need to understand encryption, but we do need to remember to check that our communications *are* encrypted.  
 6. **We may need to work more to get things done.** Some things that Big Tech has made easy for us to do, may now require more of our hands-on effort.  
