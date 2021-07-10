@@ -8,7 +8,7 @@ description: "January 6:  \"...the right of the people peaceably to assemble...\
 **_Thursday, July 15, 2021, 6:30 PM_**  
 **_<strong><span class="hilite">Outback Steakhouse</span></strong>, 2102 Texas Avenue South, College Station_**
 
-## As always, consider arriving early for dinner and discussion!
+### As always, consider arriving early for dinner and discussion!
 
 ---
 
@@ -18,7 +18,7 @@ The Trump Rally in Washington DC on January 6, 2021 has been described in numero
 
 ## "...the right of the people peaceably to assemble..."
 
-US citizens gathered to show their support for Donald Trump and express their opinion about the 2020 election **as guaranteed by the 1st Amendment to the US Constitution.
+US citizens gathered to show their support for Donald Trump and express their opinion about the 2020 election *as guaranteed by the 1st Amendment to the US Constitution.*  
 
 <blockquote><span  class="hilite" style="font-weight:bold;">Congress shall make no law … prohibiting … the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.</span><span style="text-align:right;font-style:italic;display:block;margin-top: 5px;">- The Constitution of the United States, Amendment I</span></blockquote>
 
