@@ -45,6 +45,7 @@ Starting with Google, possible changes are (NOTE: see #1 above. This list will g
 |  **Calendar** | Google Calendar  | [Proton Calendar](https://calendar.protonmail.com/) (still quite new) |
 |  **Online language translator** | Google Translate | [Still considering](https://blog.bit.ai/best-google-translate-alternatives/) (anyone have suggestions?) |
 |  **Website traffic data** | Google Analytics | [StatCounter](https://statcounter.com/)? <br />[Plausible](https://plausible.io/)? |
+|  **Multi-factor authentication** | Google Authenticator | [Duo](https://duo.com/product/multi-factor-authentication-mfa) <br>[Authy](https://authy.com/) |
 
 There are definintely plusses and minusses of each to consider. We will discuss at our meetings. Looking forward!  
 

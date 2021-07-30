@@ -34,17 +34,21 @@ We hope you can attend each of these meetings! Please RSVP to [bcsteaparty@proto
 
 ### Content will be different for each meeting
 
-Meeting 1 will cover [what we discussed on May 14](https://www.bcsteaparty.com/post/2021-may-big-tech/), including Escaping Google. Over the course of the three sessions, we'll talk about (this list subject to change and expand):
+Meeting 1 will cover [what we discussed on May 14](https://www.bcsteaparty.com/post/2021-may-big-tech/), including **Escaping Google**. Over the course of the three sessions, we'll talk about (this list subject to change and expand!):
 
-- alternatives for other leftist/leftist-supporting companies
+- alternatives for other Big Tech companies
     - Amazon
     - Twitter
     - Facebook
+    - YouTube
 - alternatives for other Big Tech services
     - payment services
     - escaping Big Banks
+    - group email services
     - phones and phone operating systems
-    - investing
+    - photo management
+    - open source software
+    - investing and investing services
 - fighting corporate anti-family and anti-American stances
 - recognizing 2nd Amendment-phobic companies
 - online security and privacy 
@@ -55,7 +59,7 @@ Meeting 1 will cover [what we discussed on May 14](https://www.bcsteaparty.com/p
     - VPN
     - passwords/passphrases
     - password managers
-    - 2-factor authentication
+    - multi-factor authentication
 - alternative ways of consuming news
 - hands-on help getting your computer(s) set up
 
