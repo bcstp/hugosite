@@ -5,25 +5,27 @@ summary: "After the success and great turnout of our meeting last May, we're ded
 description: "After the success and great turnout of our meeting last May, we're dedicating three separate meetings to the topic of Escaping Big Tech"
 ---
 
-## Mark your calendars! 
+## Mark your calendars! These meetings are *in addition* to our regular third-Thursday Tea Party meetings 
 
-We hope you can attend each of these meetings! Please RSVP to [bcsteaparty@protonmail.com](mailto:bcsteaparty@protonmail.com).
+We hope you can attend each of these three additional meetings! **Please RSVP** to [bcsteaparty@protonmail.com](mailto:bcsteaparty@protonmail.com) and let us know.  
 
-### <span class="hilite">Thursday, August 5</span>    
+<hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
+
+### Meeting 1: <span class="hilite">Thursday, August 5</span>    
 
 **Location:** [College Station Fire Station No. 3, 1900 Barron Rd.](https://cstx.gov/departments___city_hall/fire/fire_stations___facilities)  
 **Time:** 6:30 - 8:30pm   
 
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
 
-### <span class="hilite">Thursday, September 2</span>   
+### Meeting 2: <span class="hilite">Thursday, September 2</span>   
 
 **Location:** [College Station Fire Station No. 5, 1601 William D. Fitch Pkwy](https://cstx.gov/departments___city_hall/fire/fire_stations___facilities)  
 **Time:** 6:30 - 8:30pm 
  
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
 
-### <span class="hilite">Thursday, October 7</span>    
+### Meeting 3: <span class="hilite">Thursday, October 7</span>    
 
 **Location:** [College Station Fire Station No. 6, 610 University Drive East](https://cstx.gov/departments___city_hall/fire/fire_stations___facilities)  
 **Time:** 6:30 - 8:30pm 
