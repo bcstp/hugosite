@@ -11,10 +11,10 @@ We hope you can attend each of these three additional meetings! **Please RSVP** 
 
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
 
-### Meeting 1: <span class="hilite">Thursday, August 5</span>    
+### <span style="color:#777;">Meeting 1: Thursday, August 5   
 
-**Location:** [College Station Fire Station No. 3, 1900 Barron Rd.](https://cstx.gov/departments___city_hall/fire/fire_stations___facilities)  
-**Time:** 6:30 - 8:30pm   
+Location: College Station Fire Station No. 3, 1900 Barron Rd.    
+Time: 6:30 - 8:30pm</span>    
 
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
 
