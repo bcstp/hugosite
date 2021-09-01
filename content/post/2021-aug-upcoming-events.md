@@ -33,7 +33,7 @@ Caldwell High School, 550 County Road 307, Caldwell
 ## <span class="hilite">Escaping Big Tech meeting 2 of 3</span>
 
 **Thu., Sept. 2, 6:30-8pm**  
-College Station Fire Station No. 5, 1601 William D. Fitch Pkwy.     
+***VENUE CHANGE:*** College Station **Fire Station No. 3, 1900 Barron Rd.** (same venue as last time)      
 **[More Info](https://www.bcsteaparty.com/post/2021-ebt-meetings/)**  
 
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">

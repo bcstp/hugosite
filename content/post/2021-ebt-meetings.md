@@ -20,7 +20,7 @@ We hope you can attend each of these three additional meetings! **Please RSVP** 
 
 ### Meeting 2: <span class="hilite">Thursday, September 2</span>   
 
-**Location:** [College Station Fire Station No. 5, 1601 William D. Fitch Pkwy](https://cstx.gov/departments___city_hall/fire/fire_stations___facilities)  
+***VENUE CHANGE:*** [College Station Fire Station No. 3, 1900 Barron Rd.](https://cstx.gov/departments___city_hall/fire/fire_stations___facilities), same place as the last meeting   
 **Time:** 6:30 - 8:30pm 
  
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
