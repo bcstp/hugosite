@@ -60,5 +60,15 @@ There are definintely plusses and minusses of each to consider. We will discuss 
 
 **[Various quotes from the May 20th meeting](/post/2021-may-big-tech/#quotes)**  
 
+---
+---
+
+<a name="meeting2" id="meeting2"></a>  
+
+# Meeting 2
+
+[Presentation file from Sept. 2 meeting here](/odp/ebt-2of3.odp)  
+
+We'll get this presentation converted to regular text and tables here as we've done above. Thanks!   
 
 
