@@ -32,7 +32,7 @@ As we begin working through escaping Big Tech, remember the following:
 
 ## Google alternatives
 
-NOTE: see #1 above. This list will grow and update!):
+NOTE: see #1 above. A reminder: everything listed below subject to change; and not intended to list every alternative! <a href="mailto:bcsteaparty@protonmail.com">Email us</a> with suggested changes please!  
 
 | Tool Needed  | Google Product  | Recommended Product(s)  |
 |---|---|---|
@@ -47,11 +47,9 @@ NOTE: see #1 above. This list will grow and update!):
 |  **Website traffic data** | Google Analytics | [StatCounter](https://statcounter.com/)? <br />[Plausible](https://plausible.io/)? |
 |  **Multi-factor authentication** | Google Authenticator | [Duo](https://duo.com/product/multi-factor-authentication-mfa) <br>[Authy](https://authy.com/) |
 
-## A reminder: everything listed below subject to change; and not intended to list every alternative!
+Regarding the following, **<span class="hilite">just because you don't use Facebook/Twitter/whatever, doesn't mean you shouldn't consider using the best of the alternative apps listed here!</span> Have a say in our culture and politics!**
 
-<a href="mailto:bcsteaparty@protonmail.com">Email us</a> with suggested changes please!  
-
-### Facebook alternatives
+## Facebook alternatives
 
 | Facebook alternative  | Comments  | Recommended?  |
 |---|---|---|
@@ -59,17 +57,51 @@ NOTE: see #1 above. This list will grow and update!):
 | [Brax.me](https://brax.me/) | Private: good<br>Is open source: good<br>Ease of use: *not* good | Only for its privacy aspects |
 | [Minds](https://www.minds.com/) | ["Minds is the anti-Facebook..."](https://www.wired.com/story/minds-anti-facebook/)<br>Possible follow: [CancelThisCompany](https://alignpay.com/about.html) | **YES** |
 
-### Twitter alternatives
+## Twitter alternatives
 
-Note that Twitter alternatives have been becoming more like Facebook alternatives and vice versa. 
+Note that Twitter alternatives have been becoming more like Facebook alternatives. Facebook has been more long-format posts, image galleries, public and private communities. Twitter started more just making quick statements. 
 
 | Twitter alternative  | Comments  | Recommended?  |
 |---|---|---|
-| [Parler](https://parler.com/main.php) | - The first to respond to the leftist/Big Tech taunt of "Conservatives, go make your own app!"<br>- They did, and were then kicked off both app stores and their web host<br> | While deserving kudos, there may be better alternatives to Twitter now |
+| [Parler](https://parler.com/main.php) | - The first to respond to the leftist/Big Tech taunt of "Conservatives, go make your own app!"<br>- They did, and were then kicked off both app stores and their web host<br>- To get reinstated on the Apple App Store and Google Play, what did they have to compromise on though...? | While deserving kudos, there may be better alternatives to Twitter now |
 | [Gab](https://gab.com/) | - Probably most hated by the left<br>- Is open source: good<br>- [Follow Cancel this Company](https://gab.com/Table4six)<br>- CTC: ["Is the ONLY online platform that allows free speech..."](https://www.cancelthiscompany.com/News-Alt-Tech-Outlets.html) !<br>- Cancel This Company's favorite  | **YES**  |
-| [GETTR](https://gettr.com/) | - Team Trump Platform<br>- very new<br>- [Follow CTC](https://gettr.com/user/cancelcompany)  | YES  |
+| [GETTR](https://gettr.com/) | - Team Trump Platform<br>- very new<br>- [Follow CTC](https://gettr.com/user/cancelcompany) (though no posts as of 9-5-21)  | YES  |
+
+## Texting/messaging/calling alternatives
+
+Note that standard SMS texting **is not secure!**  
+
+| Messaging alternative  | Comments  | Recommended?  |
+|---|---|---|
+| Facebook Messenger | Are you ***kidding?!@#*** |  **NO!!!** Seriously, delete this app |
+| WhatsApp | Just say no |  **NO!!!**  |
+| [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the F-Droid app store (no need to go to Google Play Store)  | **YES**  |
+| [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- Used by Edward Snowden<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **YES**, remembering |
+| [Telegram](https://telegram.org/) | - "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **YES**, remembering  |
+| [Wire](https://telegram.org/faq) | Coming soon | Seems yes, remembering  |
+
+## YouTube alternatives&mdash;and a workaround!
+
+Coming soon...    
+
+## Amazon alternatives. Well, since they sell everything, a few alternatives
+
+Coming soon...  
+
+## Payment services alternatives
+
+Coming soon...  
+
+## Financial / Banking / Investing alternatives
+
+Coming soon...  
+
+
+
+
 
 ---
+
 
 ## Various links
 **<span class="hilite" style="font-size:20px;margin: 20px 0 0;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**<br />This website seeks to keep track of *all* the companies that we should avoid supporting. It describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.  
