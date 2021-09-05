@@ -30,9 +30,9 @@ As we begin working through escaping Big Tech, remember the following:
 
 ---
 
-## So, some possible starting points
+## Google alternatives
 
-Starting with Google, possible changes are (NOTE: see #1 above. This list will grow and update!):
+NOTE: see #1 above. This list will grow and update!):
 
 | Tool Needed  | Google Product  | Recommended Product(s)  |
 |---|---|---|
@@ -42,12 +42,32 @@ Starting with Google, possible changes are (NOTE: see #1 above. This list will g
 | **Maps**  | Google Maps  | Use a dedicated GPS! |
 |  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(still in limited beta form; working well)  |
 |  **Online Storage** | Google Drive  | [Tresorit](https://tresorit.com/),<br>[Proton Drive](https://protonmail.com/blog/protondrive-security/) |
-|  **Calendar** | Google Calendar  | [Proton Calendar](https://calendar.protonmail.com/) (still quite new) |
+|  **Calendar** | Google Calendar  | [Proton Calendar](https://calendar.protonmail.com/) (browser and Android app versions so far) |
 |  **Online language translator** | Google Translate | [Still considering](https://blog.bit.ai/best-google-translate-alternatives/) (anyone have suggestions?) |
 |  **Website traffic data** | Google Analytics | [StatCounter](https://statcounter.com/)? <br />[Plausible](https://plausible.io/)? |
 |  **Multi-factor authentication** | Google Authenticator | [Duo](https://duo.com/product/multi-factor-authentication-mfa) <br>[Authy](https://authy.com/) |
 
-There are definintely plusses and minusses of each to consider. We will discuss at our meetings. Looking forward!  
+## A reminder: everything listed below subject to change; and not intended to list every alternative!
+
+<a href="mailto:bcsteaparty@protonmail.com">Email us</a> with suggested changes please!  
+
+### Facebook alternatives
+
+| Facebook alternative  | Comments  | Recommended?  |
+|---|---|---|
+| [MeWe](https://mewe.com/) | [Censoring!](https://archive.vn/xLLk9) | **NO** |
+| [Brax.me](https://brax.me/) | Private: good<br>Is open source: good<br>Ease of use: *not* good | Only for its privacy aspects |
+| [Minds](https://www.minds.com/) | ["Minds is the anti-Facebook..."](https://www.wired.com/story/minds-anti-facebook/)<br>Possible follow: [CancelThisCompany](https://alignpay.com/about.html) | **YES** |
+
+### Twitter alternatives
+
+Note that Twitter alternatives have been becoming more like Facebook alternatives and vice versa. 
+
+| Twitter alternative  | Comments  | Recommended?  |
+|---|---|---|
+| [Parler](https://parler.com/main.php) | - The first to respond to the leftist/Big Tech taunt of "Conservatives, go make your own app!"<br>- They did, and were then kicked off both app stores and their web host<br> | While deserving kudos, there may be better alternatives to Twitter now |
+| [Gab](https://gab.com/) | - Probably most hated by the left<br>- Is open source: good<br>- [Follow Cancel this Company](https://gab.com/Table4six)<br>- CTC: ["Is the ONLY online platform that allows free speech..."](https://www.cancelthiscompany.com/News-Alt-Tech-Outlets.html) !<br>- Cancel This Company's favorite  | **YES**  |
+| [GETTR](https://gettr.com/) | - Team Trump Platform<br>- very new<br>- [Follow CTC](https://gettr.com/user/cancelcompany)  | YES  |
 
 ---
 
