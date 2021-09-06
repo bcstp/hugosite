@@ -17,6 +17,8 @@ The [Cancel This Company website](https://www.cancelthiscompany.com/) does a goo
 
 ---
 
+<a name="process" id="process"></a>
+
 ## Remember: This is a Process!
 
 As we begin working through escaping Big Tech, remember the following:  
@@ -29,6 +31,8 @@ As we begin working through escaping Big Tech, remember the following:
 6. **We may need to work more to get things done.** Some things that Big Tech has made easy for us to do, may now require more of our hands-on effort.  
 
 ---
+
+<a name="google" id="google"></a>
 
 ## Google alternatives
 
@@ -49,13 +53,17 @@ NOTE: see #1 above. A reminder: everything listed below subject to change; and n
 
 Regarding the following, **<span class="hilite">just because you don't use Facebook/Twitter/whatever, doesn't mean you shouldn't consider using the best of the alternative apps listed here!</span> Have a say in our culture and politics!**
 
+<a name="facebook" id="facebook"></a>
+
 ## Facebook alternatives
 
 | Facebook alternative  | Comments  | Recommended?  |
 |---|---|---|
 | [MeWe](https://mewe.com/) | [Censoring!](https://archive.vn/xLLk9) | **NO** |
-| [Brax.me](https://brax.me/) | Private: good<br>Is open source: good<br>Ease of use: *not* good | Only for its privacy aspects |
+| [Brax.me](https://brax.me/) | Private: good<br>Is open source: good<br>Ease of use: not so good | For its privacy aspects |
 | [Minds](https://www.minds.com/) | ["Minds is the anti-Facebook..."](https://www.wired.com/story/minds-anti-facebook/)<br>Possible follow: [CancelThisCompany](https://alignpay.com/about.html) | **YES** |
+
+<a name="twitter" id="twitter"></a>
 
 ## Twitter alternatives
 
@@ -67,6 +75,8 @@ Note that Twitter alternatives have been becoming more like Facebook alternative
 | [Gab](https://gab.com/) | - Probably most hated by the left<br>- Is open source: good<br>- [Follow Cancel this Company](https://gab.com/Table4six)<br>- CTC: ["Is the ONLY online platform that allows free speech..."](https://www.cancelthiscompany.com/News-Alt-Tech-Outlets.html) !<br>- Cancel This Company's favorite  | **YES**  |
 | [GETTR](https://gettr.com/) | - Team Trump Platform<br>- very new<br>- [Follow CTC](https://gettr.com/user/cancelcompany) (though no posts as of 9-5-21)  | YES  |
 
+<a name="texting" id="texting"></a>
+
 ## Texting/messaging/calling alternatives
 
 Note that standard SMS texting **is not secure!**  
@@ -74,15 +84,40 @@ Note that standard SMS texting **is not secure!**
 | Messaging alternative  | Comments  | Recommended?  |
 |---|---|---|
 | Facebook Messenger | Are you ***kidding?!*** |  **NO!!!** Seriously, delete this app |
-| WhatsApp | Just say no |  **NO**  |
-| [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the F-Droid app store (no need to go to Google Play Store)  | **YES**  |
-| [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- Used by Edward Snowden<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **YES**, remembering |
+| WhatsApp | - [Sold out its users to Facebook](https://www.thenews.com.pk/latest/776144-everybody-can-get-back-to-uninstalling-whatsapp-now-edward-snowden-after-signal-recovers) |  **NO**  |
+| [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the [F-Droid app store](https://f-droid.org/) (no need to go to Google Play Store)  | **YES**  |
+| [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.indiatoday.in/technology/news/story/how-secure-is-signal-it-s-good-enough-for-edward-snowden-so-good-enough-for-you-1757596-2021-01-10)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **YES**, remembering |
 | [Telegram](https://telegram.org/) | - Requires registering with your phone number<br>- "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **YES**, remembering  |
-| [Wire](https://wire.com/) | - End‑to‑end encryption<br>- Open source: good<br>- like Signal, "Fully compliant with the strict data protection laws in Switzerland and the European Union"<br>- no phone number needed, just email (though...) | YES  |
+| [Wire](https://wire.com/) | - End‑to‑end encryption<br>- Open source: good<br>- like Signal, "Fully compliant with the strict data protection laws in Switzerland and the European Union"<br>- no phone number needed, just email (though...) | **YES...**  |
 
+<a name="youtube" id="youtube"></a>
 ## YouTube alternatives&mdash;and a workaround!
 
-Coming soon...    
+Remember: *YouTube is owned by Google.*
+
+YouTube alternatives are seeming to gain ground; these aren't the only ones. Check for those you'd like to follow, join, and watch!
+
+### Rumble
+
+[Florida Gov. Ron DeSantis Joins YouTube Alternative ‘Rumble’ Following Google Censorship](https://www.breitbart.com/tech/2021/04/17/florida-gov-ron-desantis-joins-youtube-alternative-rumble-following-google-censorship/)   
+
+### Odysee (LBRY)
+
+[Rob Braxman, the Internet Privacy Guy](https://odysee.com/@RobBraxmanTech:6)  
+
+### Guntube
+
+When Google/YouTube was threatening to demonitize firearm channels, several alternatives came about. [Guntube](https://www.guntube.org/home) is one example. 
+
+## NewPipe.net: a YouTube...workaround?
+
+[NewPipe](https://newpipe.net/) is an open-source Android-only app, available in the [F-Droid app store](https://f-droid.org/). **It brings in YouTube videos to watch on this app, rather than going to YouTube.** 
+
+
+
+---
+
+<a name="amazon" id="amazon"></a>
 
 ## Amazon alternatives. Well, since they sell everything, a few alternatives
 
