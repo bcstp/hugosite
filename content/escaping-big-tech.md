@@ -73,12 +73,12 @@ Note that standard SMS texting **is not secure!**
 
 | Messaging alternative  | Comments  | Recommended?  |
 |---|---|---|
-| Facebook Messenger | Are you ***kidding?!@#*** |  **NO!!!** Seriously, delete this app |
-| WhatsApp | Just say no |  **NO!!!**  |
+| Facebook Messenger | Are you ***kidding?!*** |  **NO!!!** Seriously, delete this app |
+| WhatsApp | Just say no |  **NO**  |
 | [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the F-Droid app store (no need to go to Google Play Store)  | **YES**  |
 | [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- Used by Edward Snowden<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **YES**, remembering |
-| [Telegram](https://telegram.org/) | - "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **YES**, remembering  |
-| [Wire](https://telegram.org/faq) | Coming soon | Seems yes, remembering  |
+| [Telegram](https://telegram.org/) | - Requires registering with your phone number<br>- "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **YES**, remembering  |
+| [Wire](https://wire.com/) | - End‑to‑end encryption<br>- Open source: good<br>- like Signal, "Fully compliant with the strict data protection laws in Switzerland and the European Union"<br>- no phone number needed, just email (though...) | YES  |
 
 ## YouTube alternatives&mdash;and a workaround!
 
