@@ -5,6 +5,12 @@ summary: "Intro: This is a Process!"
 description: "Intro: This is a Process!"
 ---
 
+**Jump to:** <br>[Our goals](#goals) &nbsp;| &nbsp;[Things to remember](#process) &nbsp;| &nbsp;[Google alternatives](#google) &nbsp;| &nbsp;[Facebook alternatives](#facebook) &nbsp;| &nbsp;[Twitter alternatives](#twitter) &nbsp;| &nbsp;[Texting/Messaging alternatives](#texting) &nbsp;| &nbsp;[YouTube alternatives](#youtube) &nbsp;| &nbsp;[Amazon alternatives](#amazon) &nbsp;| &nbsp;[Payment Services alternatives](#payments) &nbsp;| &nbsp;[Banking alternatives](#banks) &nbsp;| &nbsp;[Links](#links) &nbsp;| &nbsp;[Meeting 2 presentation file](#meeting2)   
+
+---
+
+<a name="goals" id="goals"></a>
+
 ## Our two main goals
 
 ### *1. Protect our online privacy*
@@ -42,7 +48,7 @@ NOTE: see #1 above. A reminder: everything listed below subject to change; and n
 |---|---|---|
 | **Web search**  | google.com  | <strike>DuckDuckGo,</strike> (no longer recommended!) <br>[Qwant](https://www.qwant.com/)  |
 | **Web browser**  | Google Chrome  | [Brave Browser](https://brave.com/), <br>[Pale Moon Browser](https://www.palemoon.org/)  |
-| **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)  |
+| **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)<span class="hilite">*</span>  |
 | **Maps**  | Google Maps  | Use a dedicated GPS! |
 |  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(still in limited beta form; working well)  |
 |  **Online Storage** | Google Drive  | [Tresorit](https://tresorit.com/),<br>[Proton Drive](https://protonmail.com/blog/protondrive-security/) |
@@ -50,6 +56,11 @@ NOTE: see #1 above. A reminder: everything listed below subject to change; and n
 |  **Online language translator** | Google Translate | [Still considering](https://blog.bit.ai/best-google-translate-alternatives/) (anyone have suggestions?) |
 |  **Website traffic data** | Google Analytics | [StatCounter](https://statcounter.com/)? <br />[Plausible](https://plausible.io/)? |
 |  **Multi-factor authentication** | Google Authenticator | [Duo](https://duo.com/product/multi-factor-authentication-mfa) <br>[Authy](https://authy.com/) |
+
+<span class="hilite">*</span>Check out [this post re IP addresses that ProtonMail was compelled to release](https://protonmail.com/blog/climate-activist-arrest/). Make sure you scroll down to the "Use Tor for anonymous access" section.  
+
+---
+
 
 Regarding the following, **<span class="hilite">just because you don't use Facebook/Twitter/whatever, doesn't mean you shouldn't consider using the best of the alternative apps listed here!</span> Have a say in our culture and politics!**
 
@@ -63,6 +74,8 @@ Regarding the following, **<span class="hilite">just because you don't use Faceb
 | [Brax.me](https://brax.me/) | Private: good<br>Is open source: good<br>Ease of use: not so good | For its privacy aspects |
 | [Minds](https://www.minds.com/) | ["Minds is the anti-Facebook..."](https://www.wired.com/story/minds-anti-facebook/)<br>Possible follow: [CancelThisCompany](https://alignpay.com/about.html) | **YES** |
 
+---
+
 <a name="twitter" id="twitter"></a>
 
 ## Twitter alternatives
@@ -75,6 +88,8 @@ Note that Twitter alternatives have been becoming more like Facebook alternative
 | [Gab](https://gab.com/) | - Probably most hated by the left<br>- Is open source: good<br>- [Follow Cancel this Company](https://gab.com/Table4six)<br>- CTC: ["Is the ONLY online platform that allows free speech..."](https://www.cancelthiscompany.com/News-Alt-Tech-Outlets.html) !<br>- Cancel This Company's favorite  | **YES**  |
 | [GETTR](https://gettr.com/) | - Team Trump Platform<br>- very new<br>- [Follow CTC](https://gettr.com/user/cancelcompany) (though no posts as of 9-5-21)  | YES  |
 
+---
+
 <a name="texting" id="texting"></a>
 
 ## Texting/messaging/calling alternatives
@@ -83,15 +98,17 @@ Note that standard SMS texting **is not secure!**
 
 | Messaging alternative  | Comments  | Recommended?  |
 |---|---|---|
-| Facebook Messenger | Are you ***kidding?!*** |  **NO!!!** Seriously, delete this app |
+| Facebook Messenger | Are you ***kidding?!*** |  **NO.** Seriously, delete this app |
 | WhatsApp | - [Sold out its users to Facebook](https://www.thenews.com.pk/latest/776144-everybody-can-get-back-to-uninstalling-whatsapp-now-edward-snowden-after-signal-recovers) |  **NO**  |
 | [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the [F-Droid app store](https://f-droid.org/) (no need to go to Google Play Store)  | **YES**  |
 | [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.indiatoday.in/technology/news/story/how-secure-is-signal-it-s-good-enough-for-edward-snowden-so-good-enough-for-you-1757596-2021-01-10)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **YES**, remembering |
 | [Telegram](https://telegram.org/) | - Requires registering with your phone number<br>- "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **YES**, remembering  |
 | [Wire](https://wire.com/) | - End‑to‑end encryption<br>- Open source: good<br>- like Signal, "Fully compliant with the strict data protection laws in Switzerland and the European Union"<br>- no phone number needed, just email (though...) | **YES...**  |
 
+--- 
+
 <a name="youtube" id="youtube"></a>
-## YouTube alternatives&mdash;and a workaround!
+## YouTube alternatives&mdash;and a workaround
 
 Remember: *YouTube is owned by Google.*
 
@@ -99,33 +116,68 @@ YouTube alternatives are seeming to gain ground; these aren't the only ones. Che
 
 ### Rumble
 
-[Florida Gov. Ron DeSantis Joins YouTube Alternative ‘Rumble’ Following Google Censorship](https://www.breitbart.com/tech/2021/04/17/florida-gov-ron-desantis-joins-youtube-alternative-rumble-following-google-censorship/)   
+[Rumble.com.](https://rumble.com/) Interesting note: [Florida Gov. Ron DeSantis Joins YouTube Alternative ‘Rumble’ Following Google Censorship](https://www.breitbart.com/tech/2021/04/17/florida-gov-ron-desantis-joins-youtube-alternative-rumble-following-google-censorship/)   
 
 ### Odysee (LBRY)
 
-[Rob Braxman, the Internet Privacy Guy](https://odysee.com/@RobBraxmanTech:6)  
+[Odysee.com](https://odysee.com/). A possible follow: [Rob Braxman, the Internet Privacy Guy](https://odysee.com/@RobBraxmanTech:6)  
 
-### Guntube
+### Guntube, and others
 
 When Google/YouTube was threatening to demonitize firearm channels, several alternatives came about. [Guntube](https://www.guntube.org/home) is one example. 
 
-## NewPipe.net: a YouTube...workaround?
+### NewPipe.net: a YouTube...workaround?
 
-[NewPipe](https://newpipe.net/) is an open-source Android-only app, available in the [F-Droid app store](https://f-droid.org/). **It brings in YouTube videos to watch on this app, rather than going to YouTube.** 
-
-
+[NewPipe](https://newpipe.net/) is an open-source Android-only app, available in the [F-Droid app store](https://f-droid.org/). **It brings in YouTube videos to watch on this app, rather than going to YouTube.** E.g., in the NewPipe app, type in "How to grow tomatoes in Texas". It will show you videos from YouTube, and play them within the NewPipe app. 
 
 ---
 
 <a name="amazon" id="amazon"></a>
 
-## Amazon alternatives. Well, since they sell everything, a few alternatives
+## Amazon alternatives. Well, since they sell everything, a few alternatives and some suggestions
 
-Coming soon...  
+Note, <span style="font-weight: bold;" class="hilite">Amazon.com is [Cancel This Company's](https://www.cancelthiscompany.com/) #1 boycott target.</span> [How to boycott Amazon](https://www.cancelthiscompany.com/Boycott-Amazon.html).  
+
+> 6/18/2021 - One more huge reason to boycott Amazon: In a brazen attack on free speech, Amazon kicked [America's Frontline Doctors](https://americasfrontlinedoctors.org/) off its web service.  
+
+
+### E-books / Kindle book alternatives 
+
+(Though if you have a Kindle or find a used one, these sources offer books you can download and load onto it.)  
+
+**[Project Gutenberg](https://gutenberg.org/)** is a great source for free e-books. They've been at it for 50 years. From their website:  
+
+> Amazon sells for money many titles in print and digital format that you can get free from Project Gutenberg...For older (pre-1926) content, there is a good chance that Project Gutenberg has it free of charge, but Amazon will charge money for it.  
+
+**[Open Library](https://openlibrary.org/)** is part of the amazing and always-growing [Internet Archive](https://archive.org/). They claim to have millions of e-books available, including some newer ones on a "borrow" basis.  
+
+**[The Bryan/College Station Public Library System](https://www.bcslibrary.org/digital/)** has a collection of e-books (and [audiobooks](https://www.bcslibrary.org/eaudiobooks/)) to check out. They've also compiled a [list of other sources of free e-books](https://www.bcslibrary.org/wp-content/uploads/ebook_list20120223.pdf).    
+### Other purchasing; replacing Amazon
+
+Cancel this Company's **[Good or apolitical companies to support](https://www.cancelthiscompany.com/Good-Companies.html)**  
+
+(There may be a local version of this website coming up...stay tuned!)  
+
+Until that time though, a possible general list of buying priorities, worst to best, could look something like:  
+
+- Goods/services from countries who hate us
+- Goods/services from neutral countries
+- Goods/services from U.S. blue states
+- Goods/services from U.S. red states
+- Goods/services from Texas; and, for the best case scenario,
+- **Buying local goods and services from a local, friendly or at least neutral vendor**
+
+---
+
+<a name="payment" id="payment"></a>
 
 ## Payment services alternatives
 
 Coming soon...  
+
+---
+
+<a name="banks" id="banks"></a>
 
 ## Financial / Banking / Investing alternatives
 
@@ -137,6 +189,7 @@ Coming soon...
 
 ---
 
+<a name="links" id="links"></a>
 
 ## Various links
 **<span class="hilite" style="font-size:20px;margin: 20px 0 0;">[CancelThisCompany.com](https://www.cancelthiscompany.com/)</span>**<br />This website seeks to keep track of *all* the companies that we should avoid supporting. It describes itself as "The definitive list of left-wing companies that you should boycott." And, they offer alternative suggestions.  
@@ -155,7 +208,3 @@ Coming soon...
 # Meeting 2
 
 [Presentation file from Sept. 2 meeting here](/odp/ebt-2of3.odp)  
-
-We'll get this presentation converted to regular text and tables here as we've done above. Thanks!   
-
-
