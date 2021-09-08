@@ -1,5 +1,5 @@
 ---
-title: "September meeting: Konni Burton of The Texan"
+title: "September meeting: Konni Burton"
 date: 2021-09-07T20:53:18-05:00
 summary: "Our guest speaker will be former state Senator Konni Burton, Founder and CEO of The Texan, a statewide political news organization"
 description: "Our guest speaker will be former state Senator Konni Burton, Founder and CEO of The Texan, a statewide political news organization"
