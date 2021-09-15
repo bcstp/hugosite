@@ -5,7 +5,7 @@ summary: "Intro: This is a Process!"
 description: "Intro: This is a Process!"
 ---
 
-**Jump to:** <br>[Our goals](#goals) &nbsp;| &nbsp;[Things to remember](#process) &nbsp;| &nbsp;[Google alternatives](#google) &nbsp;| &nbsp;[Facebook alternatives](#facebook) &nbsp;| &nbsp;[Twitter alternatives](#twitter) &nbsp;| &nbsp;[Texting/Messaging alternatives](#texting) &nbsp;| &nbsp;[YouTube alternatives](#youtube) &nbsp;| &nbsp;[Amazon alternatives](#amazon) &nbsp;| &nbsp;[Payment Services alternatives](#payments) &nbsp;| &nbsp;[Banking alternatives](#banks) &nbsp;| &nbsp;[Links](#links) &nbsp;| &nbsp;[Meeting 2 presentation file](#meeting2)   
+**Jump to:** <br>[Our goals](#goals) &nbsp;| &nbsp;[Things to remember](#process) &nbsp;| &nbsp;[Google alternatives](#google) &nbsp;| &nbsp;[Facebook alternatives](#facebook) &nbsp;| &nbsp;[Twitter alternatives](#twitter) &nbsp;| &nbsp;[Texting/Messaging alternatives](#texting) &nbsp;| &nbsp;[YouTube alternatives](#youtube) &nbsp;| &nbsp;[Amazon alternatives](#amazon) &nbsp;| &nbsp;[Payment Services alternatives](#payment) &nbsp;| &nbsp;[Banking alternatives](#banks) &nbsp;| &nbsp;[Links](#links) &nbsp;| &nbsp;[Meeting 2 presentation file](#meeting2)   
 
 ---
 
@@ -156,12 +156,13 @@ Note, <span style="font-weight: bold;" class="hilite">Amazon.com is [Cancel This
 
 Cancel this Company's **[Good or apolitical companies to support](https://www.cancelthiscompany.com/Good-Companies.html)**  
 
-(There may be a local version of this website coming up...stay tuned!)  
+(There may be a local version of the Cancel This Company website coming up...stay tuned!)  
 
 Until that time though, a possible general list of buying priorities, worst to best, could look something like:  
 
 - Goods/services from countries who hate us
 - Goods/services from neutral countries
+- Goods/services from ally countries
 - Goods/services from U.S. blue states
 - Goods/services from U.S. red states
 - Goods/services from Texas; and, for the best case scenario,
@@ -173,7 +174,28 @@ Until that time though, a possible general list of buying priorities, worst to b
 
 ## Payment services alternatives
 
-Coming soon...  
+### Funding/fundraising services
+
+| Payment service  | Comments  | Recommended?  |
+|---|---|---| 
+|  GoFundMe | Will throw conservative people/groups out of their service as they choose. E.g., [Candace Owens](https://variety.com/2020/digital/news/candace-owens-gofundme-george-floyd-1234627289/), [Voter fraud investigator Matt Braynard](https://www.yahoo.com/now/gofundme-takes-down-conservative-fundraiser-020829908.html) | **NO** |
+| [GiveSendGo](https://www.givesendgo.com/) | Christian fundraising | **YES** |
+| [SubscribeStar](https://www.subscribestar.com/) | Cancel this Company says "[Fundraising without Big Tech canceling you](https://www.cancelthiscompany.com/Good-Companies.html)" | **YES** |
+| Piryx Giving Stream | Used by at least one conservative group | Might prefer the recommended services in this group until more is known |
+
+
+### One-time payment services
+
+| Payment service  | Comments  | Recommended?  |
+|---|---|---| 
+| Paypal | Big tech sellouts. [PayPal has CTC's WORST rating](https://www.cancelthiscompany.com/Company-Reviews/PayPal_Review.html); "no redeeming qualities"   | **NO** |
+| Venmo | Owned by PayPal; see above | **NO** |
+| [AlignPay](https://alignpay.com/about.html) | "‘Cancel culture’ free." (Missed this one at the Sept. meeting; sorry about that) | **YES** |
+| [GabPay](https://news.gab.com/2021/08/01/an-alternative-to-paypal-is-coming/) (upcoming) | Gab has been cancelled in almost every way: [read here](https://news.gab.com/2021/08/01/an-alternative-to-paypal-is-coming/); [support them here at dissenter.com](https://shop.dissenter.com/)  | **YES** when available |
+| Zelle | Unsure | Might prefer the recommended services in this group until more is known |
+| CashApp | Unsure | Might prefer the recommended services in this group until more is known |
+| Authorize.net | Seem to be for small businesses | Might prefer the recommended services in this group until more is known |
+
 
 ---
 
