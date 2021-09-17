@@ -5,7 +5,7 @@ summary: "Intro: This is a Process!"
 description: "Intro: This is a Process!"
 ---
 
-**Jump to:** <br>[Our goals](#goals) &nbsp;| &nbsp;[Things to remember](#process) &nbsp;| &nbsp;[Google alternatives](#google) &nbsp;| &nbsp;[Facebook alternatives](#facebook) &nbsp;| &nbsp;[Twitter alternatives](#twitter) &nbsp;| &nbsp;[Texting/Messaging alternatives](#texting) &nbsp;| &nbsp;[YouTube alternatives](#youtube) &nbsp;| &nbsp;[Amazon alternatives](#amazon) &nbsp;| &nbsp;[Payment Services alternatives](#payment) &nbsp;| &nbsp;[Banking alternatives](#banks) &nbsp;| &nbsp;[Links](#links) &nbsp;| &nbsp;[Meeting 2 presentation file](#meeting2)   
+**Jump to:** <br>[Our goals](#goals) &nbsp;| &nbsp;[Things to remember](#process) &nbsp;| &nbsp;[Google alternatives](#google) &nbsp;| &nbsp;[Facebook alternatives](#facebook) &nbsp;| &nbsp;[Twitter alternatives](#twitter) &nbsp;| &nbsp;[Texting/Messaging alternatives](#texting) &nbsp;| &nbsp;[YouTube alternatives](#youtube) &nbsp;| &nbsp;[Amazon alternatives](#amazon) &nbsp;| &nbsp;[Payment Services alternatives](#payment) &nbsp;| &nbsp;[Banking alternatives](#banks) &nbsp;| &nbsp;[Links](#links) &nbsp;| &nbsp;[Meeting presentation files](#meetings)   
 
 ---
 
@@ -203,8 +203,26 @@ Until that time though, a possible general list of buying priorities, worst to b
 
 ## Financial / Banking / Investing alternatives
 
-Coming soon...  
+> ***<span class="hilite">If Christians would stop investing money in  companies promoting unbiblical values, there would be no culture war in this country...</span>***
 
+> ***We have that much power in our numbers.***
+
+### Escaping Big Banks
+
+When possible for your situation, consider using:  
+
+- neutral local/regional banks
+- neutral local/regional credit unions ([credit unions vs. banks](https://www.mycccu.com/creditunionvsbanks/))
+- Recommended by Financial Issues Stewardship Ministries (see below): **[Christian Community Credit Union](https://www.mycccu.com/)**  
+
+### Investing/Investment Services
+
+Recommended for Biblically responsible investing:<br>
+**[Financial Issues Stewardship Ministries](https://financialissues.org/)** <br> 
+**[Timothy Plan](https://timothyplan.com/)** funds and ETFs
+
+Also recommended: <br>
+**[American Conservative Values Fund](https://acvetfs.com/)** (ACVF)
 
 
 
@@ -225,7 +243,7 @@ Coming soon...
 ---
 ---
 
-<a name="meeting2" id="meeting2"></a>  
+<a name="meetings" id="meetings"></a>  
 
 # Meeting 2
 
