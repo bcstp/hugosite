@@ -19,7 +19,7 @@ Big tech companies make money by using our personal data. It's up to us whether 
 
 ### *2. Stop supporting those companies working against us*
 
-The [Cancel This Company website](https://www.cancelthiscompany.com/) does a good job keeping track of this, with details.    
+And yes, us using free services does help support them. The [Cancel This Company website](https://www.cancelthiscompany.com/) does a good job keeping track of these companies, with details.    
 
 ---
 
@@ -117,6 +117,11 @@ YouTube alternatives are seeming to gain ground; these aren't the only ones. Che
 ### Rumble
 
 [Rumble.com.](https://rumble.com/) Interesting note: [Florida Gov. Ron DeSantis Joins YouTube Alternative ‘Rumble’ Following Google Censorship](https://www.breitbart.com/tech/2021/04/17/florida-gov-ron-desantis-joins-youtube-alternative-rumble-following-google-censorship/)   
+
+
+### Bitchute
+
+[Bitchute.com](https://www.bitchute.com). Based in the UK. [Community funded](https://www.bitchute.com/help-us-grow/).  Uses SubscribeStar (see below).    
 
 ### Odysee (LBRY)
 
