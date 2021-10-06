@@ -18,10 +18,9 @@ Time: 6:30 - 8:30pm</span>
 
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
 
-### Meeting 2: <span class="hilite">Thursday, September 2</span>   
+### <span style="color:#777;">Meeting 2: Thursday, September 2</span>   
 
-***VENUE CHANGE:*** [College Station Fire Station No. 3, 1900 Barron Rd.](https://cstx.gov/departments___city_hall/fire/fire_stations___facilities), same place as the last meeting   
-**Time:** 6:30 - 8:30pm 
+Location: College Station Fire Station No. 3, 1900 Barron Rd.<br>Time: 6:30 - 8:30pm 
  
 <hr style="margin-block-start: 0.25em;margin-block-end: 0.25em;">
 
