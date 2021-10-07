@@ -219,6 +219,7 @@ When possible for your situation, consider using:
 - neutral local/regional banks
 - neutral local/regional credit unions ([credit unions vs. banks](https://www.mycccu.com/creditunionvsbanks/))
 - Recommended by Financial Issues Stewardship Ministries (see below): **[Christian Community Credit Union](https://www.mycccu.com/)**  
+- seen recently: [Pro Life Bank](https://www.prolifebank.com/), coming soon
 
 ### Investing/Investment Services
 
