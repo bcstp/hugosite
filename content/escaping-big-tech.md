@@ -5,7 +5,7 @@ summary: "Intro: This is a Process!"
 description: "Intro: This is a Process!"
 ---
 
-**Jump to:** <br>[Our goals](#goals) &nbsp;| &nbsp;[Things to remember](#process) &nbsp;| &nbsp;[Google alternatives](#google) &nbsp;| &nbsp;[Facebook alternatives](#facebook) &nbsp;| &nbsp;[Twitter alternatives](#twitter) &nbsp;| &nbsp;[Texting/Messaging alternatives](#texting) &nbsp;| &nbsp;[YouTube alternatives](#youtube) &nbsp;| &nbsp;[Amazon alternatives](#amazon) &nbsp;| &nbsp;[Payment Services alternatives](#payment) &nbsp;| &nbsp;[Banking alternatives](#banks) &nbsp;| &nbsp;[Links](#links) &nbsp;| &nbsp;[Meeting presentation files](#meetings)   
+**Jump to:** <br>[Our goals](#goals) &nbsp; | &nbsp; [Things to remember](#process) &nbsp; | &nbsp; [Google alternatives](#google) &nbsp; | &nbsp; [Facebook alternatives](#facebook) &nbsp; | &nbsp; [Twitter alternatives](#twitter) &nbsp; | &nbsp; [Texting/Messaging alternatives](#texting) &nbsp; | &nbsp; [YouTube alternatives](#youtube) &nbsp; | &nbsp; [Amazon alternatives](#amazon) &nbsp; | &nbsp; [Payment Services alternatives](#payment) &nbsp; | &nbsp; [Banking alternatives](#banks) &nbsp;| &nbsp; [The KnowBe4 Cybersecurity Training Program](#knowbe4) &nbsp; | &nbsp; [VPNs](#vpn)  &nbsp; | &nbsp; [Passwords/Password Generators](#pw) &nbsp; | &nbsp; [Phones and Phone Service](#phones) &nbsp; |  &nbsp; [Links](#links) &nbsp; | &nbsp; [Meeting presentation files](#meetings)
 
 ---
 
@@ -27,7 +27,7 @@ And yes, us using free services does help support them. The [Cancel This Company
 
 ## Remember: This is a Process!
 
-As we begin working through escaping Big Tech, remember the following:  
+As we work through escaping Big Tech, remember the following:  
 
 1. **This is a *moving target***. What we know today may well be different tomorrow. We can almost count on it.  
 2. **NO ONE knows everything about this.** We must all rely on one another, and check on and help each other. Find those you know who can help, and ask them *to* help. 
@@ -101,9 +101,9 @@ Note that standard SMS texting **is not secure!**
 | Facebook Messenger | Are you ***kidding?!*** |  **NO.** Seriously, delete this app |
 | WhatsApp | - [Sold out its users to Facebook](https://www.thenews.com.pk/latest/776144-everybody-can-get-back-to-uninstalling-whatsapp-now-edward-snowden-after-signal-recovers) |  **NO**  |
 | [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the [F-Droid app store](https://f-droid.org/) (no need to go to Google Play Store)  | **YES**  |
-| [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.indiatoday.in/technology/news/story/how-secure-is-signal-it-s-good-enough-for-edward-snowden-so-good-enough-for-you-1757596-2021-01-10)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **YES**, remembering |
-| [Telegram](https://telegram.org/) | - Requires registering with your phone number<br>- "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **YES**, remembering  |
-| [Wire](https://wire.com/) | - End‑to‑end encryption<br>- Open source: good<br>- like Signal, "Fully compliant with the strict data protection laws in Switzerland and the European Union"<br>- no phone number needed, just email (though...) | **YES...**  |
+| [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.indiatoday.in/technology/news/story/how-secure-is-signal-it-s-good-enough-for-edward-snowden-so-good-enough-for-you-1757596-2021-01-10)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **NEUTRAL.** Remember, they know you're on it by your phone number |
+| [Telegram](https://telegram.org/) | - Requires registering with your phone number<br>- "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **NEUTRAL.** Remember, they know you're on it by your phone number  |
+| [Wire](https://wire.com/) | - End‑to‑end encryption<br>- Open source: good<br>- like Signal, "Fully compliant with the strict data protection laws in Switzerland and the European Union"<br>- no phone number needed, just email (though...) |**NEUTRAL.** Remember, your email address is unique to you  |
 
 --- 
 
@@ -228,10 +228,159 @@ Recommended for Biblically responsible investing:<br>
 **[Timothy Plan](https://timothyplan.com/)** funds and ETFs
 
 Also recommended: <br>
-**[American Conservative Values Fund](https://acvetfs.com/)** (ACVF)
+**[American Conservative Values Fund](https://acvetfs.com/)** (ACVF)  
+
+---
+
+<a name="knowbe4" id="knowbe4"></a>
+
+## The KnowBe4 Cybersecurity Training Program
+
+This cybersecurity training program is being used as an example for the State of Texas. Many cities in Texas have copied the City Of Bryan model for cybersecurity training.  
+
+**Contact us at <a href="mailto:bcsteaparty@protonmail.com">bcsteaparty@protonmail.com</a> to get a link and login credentials for the KnowBe4 Home Course.**  
+
+---
+
+<a name="vpn" id="vpn"></a>
+
+## VPNs
+
+A VPN encrypts your data and routes the traffic through a server in another location. Your Internet Provider doesn’t see what you are looking at online.  [A good article about what VPNs are and are not.](https://www.howtogeek.com/753661/vpn-myths-debunked-what-vpns-can-and-cannot-do/)  
+
+### Recommended
+
+**[Private Internet Access (PIA) VPN](https://www.privateinternetaccess.com/)**  
+
+- User Friendly
+- Cost Effective ($2.99-4.99/month billed annually)
+- Lots of options for where to route traffic and they are all pretty reliable servers
+
+**[Proton VPN](https://protonvpn.com/)**  
+
+- can bundle Plus version with ProtonMail Plus for a total of $8/month (2-year billing)
 
 
+There are many others!  
 
+---
+
+<a name="pw" id="pw"></a>
+
+## Passwords
+
+Two things make a password/passphrase impractical to hack: *randomness/entropy* and ***length***. One way to get both is by using a passphrase generator, like **[Diceware](https://diceware.dmuth.org/?skip_animation)**.  
+
+## Password Managers
+
+These store passwords for an unlimited number of websites. This makes it so you only need to remember one password/passphrase, to access the password manager, and then it remembers all the other passwords for the sites you visit.  
+
+### Recommended
+
+**[1Password](https://1password.com/)** 
+
+- Only commercial password manager that has not been hacked (yet)
+- Cost effective (between $2-$10/month)
+- User Friendly
+
+**[BitWarden](https://bitwarden.com/)**  
+
+- Open source
+- Has a good free option
+- Only $10/year for premium (paid yearly)
+
+---
+
+<a name="phones" id="phones"></a>
+
+## Phone Service Providers
+
+AT&T, Verizon, etc. all give to “charities” like Planned Parenthood and La Rasa. They give the excuse that they are matching employee donations. Seriously?
+
+### Recommended
+
+**[PureTalk USA](https://www.puretalkusa.com/)**  
+
+- Reasonable rates ($55/month for unlimited everything) discounts for military/multiple lines/etc.
+- Same coverage as AT&T since they use AT&T towers (This still gets money to AT&T, but cuts the amount.)
+
+**[Patriot Mobile](https://www.patriotmobile.com/)**  
+
+- Same rates as PureTalk USA
+- Less coverage than PureTalk USA
+- They donate to any charity you select, but Planned Parenthood is not an option. 
+
+## PHONES. *Not* Apple iPhones, *not* Google Android phones
+
+PHONES MAY BE WEAKEST LINK IN RETAINING OUR PRIVACY. 99.99% of the smartphone users in the world use an iPhone or Google Android <strike>portable telescreen</strike> phone. ***Please*** consider the best of the following suggested alternatives. 
+
+[Why not iPhones? Click this link.](https://edwardsnowden.substack.com/p/all-seeing-i) (All right, Apple backed down this time. But they showed their hand when they considered it.)  
+
+<div style="background-color:#efefef;padding: 20px;">
+
+### 1. Flip phones ("dumb" phones)
+
+Not practical for most people, and the older 2G ones may [be about to not work anymore](https://www.pcmag.com/news/cdma-vs-gsm-whats-the-difference).  
+
+---
+
+### 2. Monthly, disposable phones 
+
+When bought with cash may retain some privacy, but when choosing an Android won't address our [second main goal above (not supporting, in this case, Google)](#goals).   
+
+---
+
+### 3. *De-googled* Android phones (now we're talkin')
+
+The following phones use the open source part of the Android operating system, without going the next step and connecting directly to Google, as all standard Android phones do.  
+
+#### Brax.me phone
+
+[Rob Braxman Store](https://brax.me/prod/host.php?f=_store&h=rob&p=&version). You'll need to create a free and private account to use the store. We have one of these; it's decent.  
+
+You can also use that link to send Rob Braxman your own Android phone (certain models only, see the AOSP section at the link) and his company will de-google it, for $130.  
+
+#### Freedom Phone
+
+[$500](https://www.freedomphone.com/). Kinda, well, *quite* high for the phone you get. But still, it satisifies our goals of privacy and not supporting big tech companies.    
+
+#### /e/OS Phone 
+
+We mentioned these at our meeting, but it looks like at at the moment /e/OS phones may not be available in the U.S. Though, see next: 
+ 
+#### De-google your own Android phone
+
+This is geeky but doable. So, since [Android is open source](https://source.android.com/), some links (we've not tried these...yet):
+
+- [Lineage OS](https://lineageos.org/) (used on the brax.me phones above)
+- [Graphene OS](https://grapheneos.org/) 
+- [/e/OS](https://e.foundation/get-started/)
+
+---
+
+### Linux Phones (not even de-googled Android)
+
+#### Pine Phone
+
+[$150-$200](https://www.pine64.org/pinephone/). However, it's still a beta phone.  
+
+#### Librem 5 USA
+
+[$2000](https://puri.sm/products/librem-5-usa/). Made in USA. <span class="hilite">***This is what it actually costs:*** <br>1. to not support China, <br>**2.** to not be subsidized by service providers and <br>**3.** to not be subsidized by Big Tech (Google and Apple).</span>  
+
+---
+
+### Punkt Phone
+
+[$350](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/#buy) (note: not compatible with Verizon). **A modern 4G "dumb" phone** with Signal as its messaging app. Could be useful as a hotspot for a laptop or tablet with VPN. [Review](https://www.pcmag.com/reviews/punkt-mp02).
+
+</div>
+
+### 2G, 3G, 4G/LTE, 5G. What gets shut down when?
+
+We discussed this at Meeting 3, with dates from [this April 2021 article](https://www.pcmag.com/news/cdma-vs-gsm-whats-the-difference).  
+
+But these may change! (Again!)
 
 ---
 

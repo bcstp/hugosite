@@ -26,6 +26,10 @@ li {
 	margin-bottom: 7px;
 }
 
+.post h4 {
+	margin-bottom: 4px !important;
+}
+
 .post p {
 	margin-bottom: 20px;
 	margin-top: 0;
