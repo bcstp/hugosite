@@ -372,9 +372,7 @@ This is geeky but doable. So, since [Android is open source](https://source.andr
 
 ### Punkt Phone
 
-[$350](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/#buy) (note: not compatible with Verizon). **A modern 4G "dumb" phone** with Signal as its messaging app. Could be useful as a hotspot for a laptop or tablet with VPN. [Review](https://www.pcmag.com/reviews/punkt-mp02).
-
-
+[$350](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/#buy) (note: not compatible with Verizon). **A modern 4G "dumb" phone** with Signal as its messaging app. Could be useful as a hotspot for a laptop or tablet with VPN. [Review](https://www.pcmag.com/reviews/punkt-mp02).  
 
 ### 2G, 3G, 4G/LTE, 5G. What gets shut down when?
 
