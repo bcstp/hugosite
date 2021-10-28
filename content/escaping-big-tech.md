@@ -316,7 +316,7 @@ PHONES MAY BE WEAKEST LINK IN RETAINING OUR PRIVACY. 99.99% of the smartphone us
 
 [Why not iPhones? Click this link.](https://edwardsnowden.substack.com/p/all-seeing-i) (All right, Apple backed down this time. But they showed their hand when they considered it.)  
 
-<div style="background-color:#efefef;padding: 20px;">
+
 
 ### 1. Flip phones ("dumb" phones)
 
@@ -374,7 +374,7 @@ This is geeky but doable. So, since [Android is open source](https://source.andr
 
 [$350](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/#buy) (note: not compatible with Verizon). **A modern 4G "dumb" phone** with Signal as its messaging app. Could be useful as a hotspot for a laptop or tablet with VPN. [Review](https://www.pcmag.com/reviews/punkt-mp02).
 
-</div>
+
 
 ### 2G, 3G, 4G/LTE, 5G. What gets shut down when?
 
