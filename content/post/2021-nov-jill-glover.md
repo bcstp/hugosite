@@ -28,7 +28,9 @@ Our guest speaker will be Jill Glover, State Republican Executive Committee (SRE
 
 Jill’s program “The Agenda to Erase Families and Destroy our Children: The Left’s Push Toward Communism” is an overview of the current attack on our children and families, and the conservative principles and actions that can guide our fight back to freedom and liberty.  
 
-**Please make time to join us for this very important program.**   
+**Please make time to join us for this very important program!**   
+
+<a name="bio" id="bio"></a>  
 
 ## Jill Glover bio
 
