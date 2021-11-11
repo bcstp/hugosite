@@ -1,8 +1,8 @@
 ---
 title: "Nov. meeting: Jill Glover, SREC Committeewoman and Legislative Priorities reporter"
 date: 2021-11-10T21:02:08-06:00
-summary: ""
-description: ""
+summary: "Jill authors the Republican Party of Texas weekly email The Legislative Priorities Report and is currently on a speaking tour with the Texas Conservative Mamas"
+description: "Jill authors the Republican Party of Texas weekly email The Legislative Priorities Report and is currently on a speaking tour with the Texas Conservative Mamas"
 ---
 
 **_Thursday, November 18, 2021, 6:30 PM_**  
