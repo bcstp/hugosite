@@ -7,8 +7,8 @@ description: "Wed., Jan. 19th, 6-8:30pm at the Hilton"
 ---
 
 <div style="float:right;max-width:35%;">
-<img src="/img/gov-candidate-forum.jpg" alt="">  
-<p style="font-style:italic;">Make plans to be here!</p>
+<a href="/img/gov-candidates-flyer.jpg"><img src="/img/gov-candidates-flyer.jpg" alt=""></a>  
+<p style="font-style:italic;">Make plans to be there!</p>
 </div>
 
 ### Save the date:
@@ -27,11 +27,11 @@ Confirmed candidates (alphabetical by last name):
 - Chad Prather
 - Allen West
 
-
-
 ## NO regular Tea Party meeting this month.
 
 ## Instead, come to the forum!
+
+<a href="/img/gov-candidates-flyer.jpg"><strong>Download the flyer</strong></a> 
 
 
 ---
