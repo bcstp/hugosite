@@ -1,5 +1,5 @@
 ---
-title: "Republican Candidates for Governor Forum"
+title: "Republican Governor Forum 2022"
 date: 2022-01-08T20:16:19-06:00
 summary: "Wed., Jan. 19th, 6-8:30pm at the Hilton"
 description: "Wed., Jan. 19th, 6-8:30pm at the Hilton"
@@ -14,7 +14,7 @@ description: "Wed., Jan. 19th, 6-8:30pm at the Hilton"
 ### Save the date:
 
 **_<strong><span class="hilite">Wednesday, January 19, 2021, 6:00-8:30 PM</span>_**  
-**_<span class="hilite">College Station Hilton</span></strong>_**
+**_<span class="hilite">College Station Hilton, Oakwood Room</span></strong>_**
 
 ## SIX (!) of the Republican challengers vying to be the new Texas Governor! *Here in B/CS*
 
@@ -29,8 +29,9 @@ Confirmed candidates (alphabetical by last name):
 
 
 
-## NO regular Tea Party meeting this month. Instead, come to the forum!
+## NO regular Tea Party meeting this month.
 
+## Instead, come to the forum!
 
 
 ---
