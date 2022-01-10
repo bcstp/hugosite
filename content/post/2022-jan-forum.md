@@ -1,5 +1,5 @@
 ---
-title: "Republican Governor Forum 2022"
+title: "Republican Governor Candidate Forum 2022"
 date: 2022-01-08T20:16:19-06:00
 summary: "Wed., Jan. 19th, 6-8:30pm at the Hilton"
 description: "Wed., Jan. 19th, 6-8:30pm at the Hilton"
