@@ -38,9 +38,20 @@ Confirmed candidates (alphabetical by last name):
 
 ## And...
 
+### True Texas Project January meeting
+
+Jan 11: Robert West "The Five Star Plan"<br>
+6:30pm - 8pm<br>
+The Brazos Cotton Exchange, Downtown Bryan<br>
+[MORE](https://truetexasproject.com/event/jan-11-brazos-robert-west-the-five-star-plan/)
+
+---
+
 ### The Federalist Papers Reading Group
 
 If you're interested in either participating or just sitting in and learning, please let us know at <a href="mailto:bcsteaparty@protonmail.com">bcsteaparty@protonmail.com</a>.  
+
+---
 
 ### Any interest in an updated version of the Escaping Big Tech talks this winter/spring?
 
