@@ -1,5 +1,5 @@
 ---
-title: "2022 February Local Candidate Forum"
+title: "February 2022 meeting: Local Candidate Forum"
 date: 2022-02-09T22:10:39-06:00
 summary: "Forum for local candidates running in the March Republican Primary Election"
 description: "Forum for local candidates running in the March Republican Primary Election"
