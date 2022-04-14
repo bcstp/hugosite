@@ -19,7 +19,7 @@ Although election integrity has been a serious topic of interest since the 2020 
 <p>Beth Biesel</p>
 </div>
 
-Our guest speaker, **Beth Biesel**, is Forum Chief of the [American Liberty Forum](https://www.americanlibertyforum.org/whats-new/category/election-integrity), [Election Integrity Chair](https://www.texaseagleforum.com/electionintegrity) for [Texas Eagle Forum](https://www.texaseagleforum.com/) and serves on the Dallas County GOP Election Integrity Committee to name only a few of her active commitments.  
+Our guest speaker, **Beth Biesel** ([bio](#bio)), is Forum Chief of the [American Liberty Forum](https://www.americanlibertyforum.org/whats-new/category/election-integrity), [Election Integrity Chair](https://www.texaseagleforum.com/electionintegrity) for [Texas Eagle Forum](https://www.texaseagleforum.com/) and serves on the Dallas County GOP Election Integrity Committee to name only a few of her active commitments.  
 
 Beth is passionate about election integrity and will be presenting a portion of her program titled “Election Transparency on Trial” and will address:  
 
@@ -37,3 +37,19 @@ Please make time to hear this very important information.
 In addition, Beth will be hosting the **<a href="/pdf/4_30_22 Flyer-Final.pdf">Election Transparency on Trial</a>** symposium on April 30, 2022 in Dallas (<a href="/pdf/4_30_22 Flyer-Final.pdf">download flyer with full info</a>) where she and other experts will present a full day of information about our current election systems and offer effective solutions to change the way elections are conducted.   
 
 We are anxious to see you all again soon!
+
+---
+
+<a name="bio" id="bio"></a>
+
+## Beth Biesel bio/CV
+
+- Wife, mother of three post grad children, and “mom” to one wonderful golden retriever; saved and sustained by the grace of God
+- Forum Chief, [American Liberty Forum](https://americanlibertyforum.org) 
+- Dallas County Republican Party Election Integrity Committee
+- Dallas County Election Judge for 12 years
+- [Texas Eagle Forum](https://texaseagleforum.com) Election Integrity Chair - author of 2 TEF articles 
+- Texas Conservatives Mamas member (JoAnn Fleming’s Mamas)
+- Grassroots America Champion of Freedom Honoree
+- [American Candidates and Citizens for Election Integrity](https://accfei.org) member 
+- Host of ACCFEI Symposium on April 30th: Election Transparency on Trial
