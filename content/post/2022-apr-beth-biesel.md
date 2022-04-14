@@ -44,12 +44,12 @@ We are anxious to see you all again soon!
 
 ## Beth Biesel bio/CV
 
-- Wife, mother of three post grad children, and “mom” to one wonderful golden retriever; saved and sustained by the grace of God
+- Wife, mother of three post grad children, and “mom” to one wonderful golden retriever; **saved and sustained by the grace of God**
 - Forum Chief, [American Liberty Forum](https://americanlibertyforum.org) 
 - Dallas County Republican Party Election Integrity Committee
 - Dallas County Election Judge for 12 years
 - [Texas Eagle Forum](https://texaseagleforum.com) Election Integrity Chair - author of 2 TEF articles 
 - Texas Conservatives Mamas member (JoAnn Fleming’s Mamas)
 - Grassroots America Champion of Freedom Honoree
-- [American Candidates and Citizens for Election Integrity](https://accfei.org) member 
-- Host of ACCFEI Symposium on April 30th: Election Transparency on Trial
+- [American Candidates and Citizens for Election Integrity](https://accfei.org) (ACCFEI) member 
+- Host of ACCFEI Symposium on April 30th: <a href="/pdf/4_30_22 Flyer-Final.pdf">Election Transparency on Trial</a>
