@@ -1,8 +1,8 @@
 ---
-title: "2022 Apr Beth Biesel"
+title: "April meeting: Beth Biesel of Texas Eagle Forum on Election Transparency"
 date: 2022-04-14T09:06:27-05:00
-description: ""
-summary: ""
+description: "Beth is passionate about election integrity and will be presenting a portion of her program titled Election Transparency on Trial"
+summary: "Beth is passionate about election integrity and will be presenting a portion of her program titled Election Transparency on Trial"
 ---
 
 **_Thursday, April 21, 2022, 6:30 PM_**  
