@@ -31,7 +31,7 @@ Beth is passionate about election integrity and will be presenting a portion of 
 Please make time to hear this very important information.  
 
 <div class="align-right" style="width:100%;">
-<a href="https://give.cornerstone.cc/election+symposium"><img src="/img/election-transparency-on-trial.png" alt="Election Transparency on Trial"></a>  
+<a href="https://www.americanlibertyforum.org/"><img src="/img/election-transparency-on-trial.png" alt="Election Transparency on Trial"></a>  
 </div>
 
 In addition, Beth will be hosting the **<a href="/pdf/4_30_22 Flyer-Final.pdf">Election Transparency on Trial</a>** symposium on April 30, 2022 in Dallas (<a href="/pdf/4_30_22 Flyer-Final.pdf">download flyer with full info</a>) where she and other experts will present a full day of information about our current election systems and offer effective solutions to change the way elections are conducted.   
@@ -52,4 +52,4 @@ We are anxious to see you all again soon!
 - Texas Conservatives Mamas member (JoAnn Fleming’s Mamas)
 - Grassroots America Champion of Freedom Honoree
 - [American Candidates and Citizens for Election Integrity](https://accfei.org) (ACCFEI) member 
-- Host of ACCFEI Symposium on April 30th: <a href="/pdf/4_30_22 Flyer-Final.pdf">Election Transparency on Trial</a>
+- Host of ACCFEI Symposium on April 30th: <a href="https://www.americanlibertyforum.org/">Election Transparency on Trial</a>
