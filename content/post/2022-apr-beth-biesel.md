@@ -40,6 +40,26 @@ We are anxious to see you all again soon!
 
 ---
 
+<a name="conference" id="conference"></a>
+
+# UPDATE: link to view the Saturday symposium online
+
+As mentioned at our meeting on the 21st, if you're unable to attend in person, Beth has provided the logon info for the **Election Transparency on Trial** symposium this Saturday, April 30, 2022 at 8:30am.
+
+## PLEASE, <span class="hilite">the following link is for the B/CS Tea Party only. Do not forward it outside our group!</span>
+
+<br>
+
+**Join the Zoom Meeting:  
+[https://us02web.zoom.us/j/81530824764?pwd=WHV5NkFmVVdrd0hKYTZ6QzRrNEtCZz09](https://us02web.zoom.us/j/81530824764?pwd=WHV5NkFmVVdrd0hKYTZ6QzRrNEtCZz09)**  
+
+Dial in by phone: +1 346 248 7799 US (Houston)   
+
+**Meeting ID: 815 3082 4764**  
+**Passcode: 443945**  
+
+---
+
 <a name="bio" id="bio"></a>
 
 ## Beth Biesel bio/CV
