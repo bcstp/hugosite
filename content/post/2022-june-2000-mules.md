@@ -1,8 +1,8 @@
 ---
 title: "June meeting: venue change for the film 2000 Mules"
 date: 2022-06-15T09:57:58-05:00
-summary: ""
-description: ""
+summary: "Movie night in June!"
+description: "Movie night in June!"
 ---
 
 ## Our June meeting is movie night...
