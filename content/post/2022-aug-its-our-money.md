@@ -20,7 +20,6 @@ Texas Comptroller Glen Hagar recently announced a <strong><span class="hilite">h
 
 ## Wallace Johnson will speak on how our tax money is "managed" in Austin
 
-Our guest speaker for this meeting will be <strong><span class="hilite">Wallace Johnson</span></strong>, Chairman of Robertson County Republican Party, Wildlife Rancher, Oil Field Geologist, a patriot and friend. 
-Wallace will be presenting information about how our tax money is managed when it gets to Austin.  
+Our guest speaker for this meeting will be <strong><span class="hilite">Wallace Johnson</span></strong>, Chairman of the Robertson County Republican Party, Wildlife Rancher, Oil Field Geologist, a patriot and friend. Wallace will be presenting information about how our tax money is managed when it gets to Austin.  
 
 You do not want to miss this one!
