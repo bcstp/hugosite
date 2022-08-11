@@ -1,8 +1,8 @@
 ---
 title: "Aug. Meeting: It's OUR money. What are THEY going to do with it?"
 date: 2022-08-11T12:57:27-05:00
-description: "The state legislature has a $27 Billion surplus of our money. In the past, they've not done well giving much back"
-summary: "The state legislature has a $27 Billion surplus of our money. In the past, they've not done wellgiving much back"
+description: "The state legislature has a $27 Billion surplus of our money. In the past, they've not done well in giving much back"
+summary: "The state legislature has a $27 Billion surplus of our money. In the past, they've not done well in giving much back"
 ---
 
 **_Thursday, August 18, 2022, 6:30 PM_**  
