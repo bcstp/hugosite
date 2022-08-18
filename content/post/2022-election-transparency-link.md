@@ -1,8 +1,8 @@
 ---
 title: "Link: Election Transparency on Trial"
 date: 2022-08-18T17:31:37-05:00
-summary: "...a link to the recorded Symposium"
-description: "...a link to the recorded Symposium"
+summary: "...a link to the Symposium recorded in April"
+description: "...a link to the Symposium recorded in April"
 ---
 
 In April, we hosted **[Beth Biesel of Texas Eagle Forum on Election Transparency](https://www.bcsteaparty.com/post/2022-apr-beth-biesel/)** and promised a link to her upcoming symposium, [Election Transparency on Trial](https://tspantx.com/beth-biesel-election-transparency-on-trial/).
