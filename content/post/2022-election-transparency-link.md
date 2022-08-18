@@ -1,5 +1,5 @@
 ---
-title: "Beth Biesel: Election Transparency on Trial"
+title: "Link: Election Transparency on Trial"
 date: 2022-08-18T17:31:37-05:00
 summary: "...a link to the recorded Symposium"
 description: "...a link to the recorded Symposium"
