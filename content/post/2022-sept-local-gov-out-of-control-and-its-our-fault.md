@@ -25,3 +25,24 @@ Mike’s presentation will examine local government, how decisions are made and 
 ## Topic: Local Government Is Out of Control and It’s Your/*Our* Fault
 
 (With at least one local example of how to do this right!) Another great topic to learn about!
+
+<a name="bio" id="bio"></a>
+
+---
+
+## Mike Southerland bio
+
+Bryan has been home to Mike Southerland and his family since 1984. Before entering the service, he was a resident of Louisiana. A 22-year Army veteran, Mike retired from active duty as a Corps of Engineers Lieutenant Colonel in May 1989. While in Vietnam – Feb. 1969 to Feb. 1970 – he logged more than 900 combat hours as a helicopter pilot, and later served in many leadership positions, one of which was in a military community located in Germany.  
+
+He has owned and operated two insurance agencies in Bryan for 20 years – from 1990 to 2010.  
+
+Mike has donated his time and energies to the Bryan Rotary Club and Habitat for Humanity as president. He has been a volunteer for Elder Aid, the Boys & Girls Club of the Brazos Valley, Mothers Against Drunk Driving, The Brazos Valley Council on Alcohol and Substance Abuse, and the American Red Cross.  
+
+As a director of the Bryan Development Foundation, he helped with Blinn College consolidation and furthered plans for a state prison development in Bryan.
+He has been on the board of Keep Brazos Beautiful. He chaired the traveling Vietnam Memorial Wall exhibited at the Bush Library and created and chaired an annual veteran’s parade in Downtown Bryan. He has been Bryan Rotary President and Treasurer, and President and Treasurer of the Vietnam Veterans of America Chapter 937.  
+
+Mike was elected to three terms on the Bryan City Council. In 2006, Mike was instrumental in lobbying for creation of an ordinance further restricting the number of unrelated adults in a single-family dwelling located in a single-family residential neighborhood. During his time on the City Council, he served on many of the council appointed committees. Over the three terms he presented over 80 items of council legislation. He wrote four City Charter Amendments and all four were passed and instituted.  
+
+Mike holds a bachelor’s degree in computer science with honors from the University of Southern Mississippi and has completed some graduate course work at Texas A&M University. Mike and Tana, a retired schoolteacher, have been married for over 50 years. They have three children and five grandchildren. Their son Ty and his family reside in Corpus Christi; Mike and his family reside in College Station; and the youngest son Matt and his wife reside in the Dallas area.  
+
+> “Tana and I love Bryan and are proud to serve.”
