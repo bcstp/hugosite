@@ -20,11 +20,13 @@ The focus of political conversation and attention is typically on issues at the 
 
 Mike is a US. Army veteran with 22 yrs of service, helicopter pilot in Vietnam,  owned, operated and sold two different insurance business in Bryan and served on the Bryan City Council from 2006 - 2020 (two different terms) along with service in many other organizations.  
 
-Mike’s presentation will examine local government, how decisions are made and how citizen influence and pressure can result in better local decisions.   
+## Citizen input and pressure is the key!
+
+Mike’s presentation will examine local government, how decisions are made and **how citizen influence and pressure can result in better local decisions.**   
 
 ## Topic: Local Government Is Out of Control and It’s Your/*Our* Fault
 
-(With at least one local example of how to do this right!) Another great topic to learn about!
+<span class="hilite">(With at least one local example of how to do this right!)</span> Another great topic to learn about!
 
 <a name="bio" id="bio"></a>
 
