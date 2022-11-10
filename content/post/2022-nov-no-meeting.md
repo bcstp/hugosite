@@ -17,7 +17,7 @@ description: "...consider attending Ann Coulter's State of the Union talk on cam
 Instead, please consider attending a special event sponsored by [Turning Point USA, Texas A&M University](https://tpusatamu.wixsite.com/website/events) where **Ann Coulter** will be speaking:  
 
 **_Thursday, November 17, 6:30 PM_**  
-**_<strong><span class="hilite">Memorial Student Center, Room 2300A</span></strong>  
+**_<strong><span class="hilite">Memorial Student Center (MSC), Room 2300A</span></strong>  
 Texas A&amp;M University Campus_**  
 
 **<a href="https://docs.google.com/forms/d/e/1FAIpQLSe6sgBQh8s1mczkc5-kinZBo1yqYVpZjwUphO3rmKQKDIVbgQ/viewform">Click here to RSVP for this event.</a>** There is no cost but they are requesting RSVPs. 
