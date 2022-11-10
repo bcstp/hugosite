@@ -20,7 +20,7 @@ Instead, please consider attending a special event sponsored by [Turning Point U
 **_<strong><span class="hilite">Memorial Student Center (MSC), Room 2300A</span></strong>  
 Texas A&amp;M University Campus_**  
 
-**<a href="https://docs.google.com/forms/d/e/1FAIpQLSe6sgBQh8s1mczkc5-kinZBo1yqYVpZjwUphO3rmKQKDIVbgQ/viewform">Click here to RSVP for this event.</a>** There is no cost but they are requesting RSVPs. 
+**<a href="https://docs.google.com/forms/d/e/1FAIpQLSe6sgBQh8s1mczkc5-kinZBo1yqYVpZjwUphO3rmKQKDIVbgQ/viewform">Click here to RSVP for this event.</a>** There is no mention of cost but they are requesting RSVPs. 
 
 Check out Ann’s website: **[AnnCoulter.com.](https://anncoulter.com/)** And, **[Ann's Bio.](https://anncoulter.com/bio/)**     
 
