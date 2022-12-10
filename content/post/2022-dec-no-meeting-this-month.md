@@ -1,8 +1,8 @@
 ---
 title: "No Meeting in December. Merry Christmas!"
 date: 2022-12-10T15:56:24-06:00
-summary: ""
-description: ""
+summary: "But please remember to contact the Texas Speaker of the House!"
+description: "But please remember to contact the Texas Speaker of the House!"
 ---
 
 # <span style="color:red;">MERRY CHRISTMAS!</span>
