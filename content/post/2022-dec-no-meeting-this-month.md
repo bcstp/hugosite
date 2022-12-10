@@ -27,7 +27,7 @@ The Bryan/College Station Tea Party will not meet in December 2022. Our next Tea
 
 Although this world is consumed with darkness, deception and chaos, we must never lose sight of God’s covenant of redemption and protection to deliver us through the current troubles in His timing not ours.  
 
-Our hope is for the message of Christmas to fill your life with Joy and Peace.  
+Our hope is for the message of Christmas to fill your life with Joy and Peace. **<span style="color:red;">God sent His Son once, and He will do so again!<span style="color:red;">**    
 
 All the Best of Blessings to you and your family during this wonderful season and throughout the New Year!  
 
