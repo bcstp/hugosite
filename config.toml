@@ -21,7 +21,7 @@ unsafe= true
     avatar = "img/joinordie2.jpg"
     header_background = "img/bluebonnets.jpg"
     header_title = "Bryan/College Station Tea Party"
-    copyright = "Bryan/College Station Tea Party. By the grace of God, powered by [Hugo](https://gohugo.io), [Github](https://github.com/), and [Netlify](https://www.netlify.com). Additional hat tip to [Lynda.com](https://www.lynda.com/)."
+    copyright = "Bryan/College Station Tea Party. By the grace of God, powered by [Hugo](https://gohugo.io), [Github](https://github.com/), and [Netlify](https://www.netlify.com). Additional hat tip to the former [Lynda.com](https://www.lynda.com/)."
     custom_css = []
     custom_js  = []
 

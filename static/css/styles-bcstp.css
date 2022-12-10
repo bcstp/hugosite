@@ -136,3 +136,5 @@ abbr[title] {
 	border-color: #777;
 	text-decoration: 0;
 }
+
+article.post:nth-child(2) { display: none; }
