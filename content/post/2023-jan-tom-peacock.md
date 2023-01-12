@@ -33,4 +33,6 @@ The only sure way to keep Big Government from taking away our God-given liberty 
 - property taxes, and 
 - the electric grid.  
 
+## Oh, and Happy New Year!
+
 We look forward to seeing you for a great kickoff to 2023!
