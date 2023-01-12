@@ -25,9 +25,9 @@ Tom’s presentation will focus on **“The Problem with Big Government.”**
 
 Stay with us now...Big Government is assaulting our liberties on a daily basis. And while it is important to address these attacks, it is like playing whack-a-mole. 
 
-## Whack-a-mole? My arm's getting tired...but there is a technique that will work
+## Whack-a-mole? My arm's getting tired...but there is a solution that will work
 
-The only sure way to keep Big Government from taking away our God-given liberty is by <span style="font-size:20px;font-weight: bold;color: #900;">making it small.</span> We'll explore this from the perspective of:
+The only sure way to keep Big Government from taking away our God-given liberty is by <span style="font-size:20px;font-style:italic;font-weight: bold;color: #900;">making it small.</span> We'll explore this from the perspective of:
 
 - the Texas budget, 
 - property taxes, and 
