@@ -5,7 +5,7 @@ summary: "Let's welcome Texas Attorney General Ken Paxton to the Republican Part
 description: "Let's welcome Texas Attorney General Ken Paxton to the Republican Party of Brazos County Reagan Day Dinner, Tue., Feb. 28"
 ---
 
-**_Tuesday, February 28, 2022, 7 PM_** 
+**_Tuesday, February 28, 2023, 7 PM_** 
 **_<br><strong><span class="hilite">The Brazos Center</span></strong> in Bryan_**
 
 **[Buy tickets](https://brazosgop.org/reagan-dinner-2023/)**  
