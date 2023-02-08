@@ -20,7 +20,7 @@ The fact that U.S. citizens own (hundreds of?) millions of personal firearms is 
 
 <img src="https://texas.gunowners.org/wp-content/uploads/2023/02/GOA-Email-Header-768x256.png" alt="Gun Owners of America" />
 
-**[Gun Owners of America (GOA)](https://texas.gunowners.org/)** plays a major role in sustaining our legal right to own and use firearms. The primary focus for GOA Texas is to promote Texas legislation that protects everyone’s right to keep and bear arms.  
+**[Gun Owners of America (GOA)](https://texas.gunowners.org/)** plays a major role in sustaining our legal right to own and use firearms. ***The primary focus for GOA Texas is to promote Texas legislation that protects everyone’s right to keep and bear arms.***  
 
 <div class="align-right" style="width:20%;">
 <img src="/img/wes-virdell-portrait.jpeg" alt="portrait">  
@@ -37,7 +37,9 @@ Looking forward to seeing you all again soon!
 
 ## And DON'T FORGET THIS YEAR'S REAGAN DAY DINNER!!
 
-Tuesday, February 28, at the Brazos Center. **[MORE](https://www.bcsteaparty.com/post/2023-reagan-day-dinner/)**  
+Tuesday, February 28, at the Brazos Center. **[MORE.](https://www.bcsteaparty.com/post/2023-reagan-day-dinner/)** Seriously, **[buy your tickets!](https://brazosgop.org/reagan-dinner-2023/)**   
+
+We'll look forward to seeing everyone here as well! 
 
 
 
