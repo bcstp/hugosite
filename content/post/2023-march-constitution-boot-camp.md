@@ -7,7 +7,7 @@ description: "The Constitution is not a self-enforcing document. -The Founders"
 ---
 
 **_Saturday, March 18, 9am-1pm_**  
-**_<strong><span class="hilite">Emmanuel Baptist Church</span></strong>, , 7320 Steep Hollow Rd, Bryan_**
+**_<strong><span class="hilite">Emmanuel Baptist Church</span></strong>, 7320 Steep Hollow Rd, Bryan_**
 
 ---
 
