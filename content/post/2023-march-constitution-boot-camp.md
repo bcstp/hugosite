@@ -23,6 +23,8 @@ Friends **[Building Blocks for Liberty](https://buildingblocksforliberty.org/)**
 
 ## Let us know if you can make it!
 
+There will be **no charge for this Boot Camp**, thanks to our venue being provided (thank you Emmanuel Baptist Church!). The materials we've included in the past will be given each attendee afterwards as a digital download.  
+
 For RSVP and questions, email: <strong><a href="mailto:constitutionbootcamp@skiff.com">constitutionbootcamp@skiff.com</a></strong>  
 
 ---
