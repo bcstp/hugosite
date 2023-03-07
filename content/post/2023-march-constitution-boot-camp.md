@@ -11,6 +11,9 @@ description: "The Constitution is not a self-enforcing document. -The Founders"
 
 ---
 
+> Why Study Our Constitution? Your future depends on it. Your freedom to exercise your natural rights depends on it. The Constitution is the rule book that we created for the federal government. It is our permission slip for our central government to exist and function. It is not a rule book for the states or the people.
+> <br><em style="text-align: right;display: block;">\- [The Handbook for We the People](https://wethepeoplehandbook.com/)</em>
+
 ## Haven't yet gotten through our Constitution in Ten Lessons material?
 
 This boot camp is updated material from **[bcsteaparty.com/constitution/](https://www.bcsteaparty.com/constitution/)**. We'll be covering it all in one fun morning.
