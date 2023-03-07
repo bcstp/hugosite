@@ -15,13 +15,15 @@ description: "The Constitution is not a self-enforcing document. -The Founders"
 
 This boot camp is updated material from **[bcsteaparty.com/constitution/](https://www.bcsteaparty.com/constitution/)**. We'll be covering it all in one fun morning.
 
-## More info
+## Some kudos, and more info
 
-**[Building Blocks for Liberty](https://buildingblocksforliberty.org/)** and **[The Handbook for We the People](https://wethepeoplehandbook.com/)** worked together to compile the presentation we'll be using.
+Friends **[Building Blocks for Liberty](https://buildingblocksforliberty.org/)** out of Ohio, and Bob Hilliard, author of **[The Handbook for We the People](https://wethepeoplehandbook.com/)**, worked together to compile the presentation we'll be using.  
+
+**[True Texas Project](https://truetexasproject.com/)** has helped get this Boot Camp offered all over the state for the past two years, and will be offering this event again in September, here and in various cities around Texas. These, as well as the Boot Camp this month, will help you qualify for **[True Texan Certification](https://truetexasproject.com/certified-true-texan-program/)**.    
 
 ## Let us know if you can make it!
 
-For RSVP and questions: <strong><a href="mailto:constitutionbootcamp@skiff.com">constitutionbootcamp@skiff.com</a></strong>  
+For RSVP and questions, email: <strong><a href="mailto:constitutionbootcamp@skiff.com">constitutionbootcamp@skiff.com</a></strong>  
 
 ---
 
