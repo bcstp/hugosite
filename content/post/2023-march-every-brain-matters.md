@@ -1,7 +1,6 @@
 ---
 title: "March 2023 Meeting: Every Brain Matters"
 date: 2023-03-08T22:34:16-06:00
-weight: 2
 summary: "EBM is an alliance of organizations and individuals that educate about the dangers of marijuana and the drug culture expansion"
 description: "EBM is an alliance of organizations and individuals that educate about the dangers of marijuana and the drug culture expansion"
 ---

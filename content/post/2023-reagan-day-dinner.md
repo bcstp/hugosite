@@ -1,7 +1,6 @@
 ---
 title: "2023 Reagan Day Dinner: Feb. 28 at the Brazos Center"
 date: 2023-02-06T11:55:10-06:00
-
 summary: "Let's welcome Texas Attorney General Ken Paxton to the Republican Party of Brazos County Reagan Day Dinner, Tue., Feb. 28"
 description: "Let's welcome Texas Attorney General Ken Paxton to the Republican Party of Brazos County Reagan Day Dinner, Tue., Feb. 28"
 ---
