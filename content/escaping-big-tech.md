@@ -30,11 +30,12 @@ And yes, us using free services does help support them. The [Cancel This Company
 As we work through escaping Big Tech, remember the following:  
 
 1. **This is a *moving target***. What we know today may well be different tomorrow. We can almost count on it.  
-2. **NO ONE knows everything about this.** We must all rely on one another, and check on and help each other. Find those you know who can help, and ask them *to* help. 
+2. **NO ONE knows everything about this** *including* (especially?) the authors of this page!! We must all rely on one another, and check on and help each other. Find those you know who can help, and ask them *to* help. THANK YOU to those who've pointed out errors on this page, and things that were missed. <br>Please do this yourselves if you see out-of-date material or anything needing correcting: <a href="mailto:bcsteaparty@protonmail.com">bcsteaparty@protonmail.com</a> 
 3. **Almost *no one* is doing this all perfectly.** Don’t get frustrated and/or overwhelmed in the process! Or at least, work on continually improving *managing* your frustration.  
 4. **Sometimes we will have to consider paying for services that we've previously received for "free"**. We have gotten used to using extremely valuable products without having to pay money up front. This has proven to be costly in the long run&mdash;for our privacy, and for our ability to communicate freely.
 5. **We may need to learn more about the technical side of communicating online.** Big Tech has taken advantage of our desire not to have to learn more about the details of what happens in the background when we work and converse online. Indeed, they've designed their services to keep us from having to know more.  E.g, we may not need to understand encryption, but we do need to remember to check that our communications *are* encrypted.  
 6. **We may need to work more to get things done.** Some things that Big Tech has made easy for us to do, may now require more of our hands-on effort.  
+
 
 ---
 
@@ -50,9 +51,9 @@ NOTE: see #1 above. A reminder: everything listed below subject to change; and n
 | **Web browser**  | Google Chrome  | [Brave Browser](https://brave.com/), <br>[Pale Moon Browser](https://www.palemoon.org/)  |
 | **Email**  | Gmail  | [Proton Mail](https://protonmail.com/)<span class="hilite">*</span>  |
 | **Maps**  | Google Maps  | Use a dedicated GPS! |
-|  **Online sharable, <br>editable documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>(still in limited beta form; working well)  |
+|  **Online shareable, <br>collaborative documents** | Google Docs  | [Skiff.org](https://www.skiff.org/) <br>Excellent but still no spreadsheet option. Skiff seems to be trying to copy the Proton apps: Drive, encrypted email, encrypted calendar  |
 |  **Online Storage** | Google Drive  | [Tresorit](https://tresorit.com/),<br>[Proton Drive](https://protonmail.com/blog/protondrive-security/) |
-|  **Calendar** | Google Calendar  | [Proton Calendar](https://calendar.protonmail.com/) (browser and Android app versions so far) |
+|  **Calendar** | Google Calendar  | [Proton Calendar](https://calendar.protonmail.com/) (browser, iOS and Android apps) |
 |  **Online language translator** | Google Translate | [Still considering](https://blog.bit.ai/best-google-translate-alternatives/) (anyone have suggestions?) |
 |  **Website traffic data** | Google Analytics | [StatCounter](https://statcounter.com/)? <br />[Plausible](https://plausible.io/)? |
 |  **Multi-factor authentication** | Google Authenticator | [Duo](https://duo.com/product/multi-factor-authentication-mfa) <br>[Authy](https://authy.com/) |
@@ -66,7 +67,7 @@ Regarding the following, **<span class="hilite">just because you don't use Faceb
 
 <a name="facebook" id="facebook"></a>
 
-## Facebook alternatives
+## Facebook alternatives 
 
 | Facebook alternative  | Comments  | Recommended?  |
 |---|---|---|
@@ -80,13 +81,14 @@ Regarding the following, **<span class="hilite">just because you don't use Faceb
 
 ## Twitter alternatives
 
-Note that Twitter alternatives have been becoming more like Facebook alternatives. Facebook has been more long-format posts, image galleries, public and private communities. Twitter started more just making quick statements. 
+**(Is the following possibly not as crucial with the new owner of Twitter?)** Our observation: there is *much* more content getting through without being censored. Some that is, people call out directly to Elon Musk and it appears that he is fixing things. Time will tell.     
+
 
 | Twitter alternative  | Comments  | Recommended?  |
 |---|---|---|
 | [Parler](https://parler.com/main.php) | - The first to respond to the leftist/Big Tech taunt of "Conservatives, go make your own app!"<br>- They did, and were then kicked off both app stores and their web host<br>- To get reinstated on the Apple App Store and Google Play, what did they have to compromise on though...? | While deserving kudos, there may be better alternatives to Twitter now |
 | [Gab](https://gab.com/) | - Probably most hated by the left<br>- Is open source: good<br>- [Follow Cancel this Company](https://gab.com/Table4six)<br>- CTC: ["Is the ONLY online platform that allows free speech..."](https://www.cancelthiscompany.com/News-Alt-Tech-Outlets.html) !<br>- Cancel This Company's favorite  | **YES**  |
-| [GETTR](https://gettr.com/) | - Team Trump Platform<br>- very new<br>- [Follow CTC](https://gettr.com/user/cancelcompany) (though no posts as of 9-5-21)  | YES  |
+| [GETTR](https://gettr.com/) | - Team Trump Platform<br>- [Follow CTC](https://gettr.com/user/cancelcompany) (though no posts as of 9-5-21)  | YES  |
 
 ---
 
@@ -101,7 +103,7 @@ Note that standard SMS texting **is not secure!**
 | Facebook Messenger | Are you ***kidding?!*** |  **NO.** Seriously, delete this app |
 | WhatsApp | - [Sold out its users to Facebook](https://www.thenews.com.pk/latest/776144-everybody-can-get-back-to-uninstalling-whatsapp-now-edward-snowden-after-signal-recovers) |  **NO**  |
 | [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the [F-Droid app store](https://f-droid.org/) (no need to go to Google Play Store)  | **YES**  |
-| [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.indiatoday.in/technology/news/story/how-secure-is-signal-it-s-good-enough-for-edward-snowden-so-good-enough-for-you-1757596-2021-01-10)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **NEUTRAL.** Remember, they know you're on it by your phone number |
+| [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.dailydot.com/debug/edward-snowden-signal-encryption-privacy-messaging/)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **NEUTRAL.** Remember, they know you're on it by your phone number |
 | [Telegram](https://telegram.org/) | - Requires registering with your phone number<br>- "focus on security and speed"<br>- computer version too<br>- Many conservatives have channels | **NEUTRAL.** Remember, they know you're on it by your phone number  |
 | [Wire](https://wire.com/) | - End‑to‑end encryption<br>- Open source: good<br>- like Signal, "Fully compliant with the strict data protection laws in Switzerland and the European Union"<br>- no phone number needed, just email (though...) |**NEUTRAL.** Remember, your email address is unique to you  |
 
@@ -195,10 +197,10 @@ Until that time though, a possible general list of buying priorities, worst to b
 |---|---|---| 
 | Paypal | Big tech sellouts. [PayPal has CTC's WORST rating](https://www.cancelthiscompany.com/Company-Reviews/PayPal_Review.html); "no redeeming qualities"   | **NO** |
 | Venmo | Owned by PayPal; see above | **NO** |
-| [AlignPay](https://alignpay.com/about.html) | "‘Cancel culture’ free." (Missed this one at the Sept. meeting; sorry about that) | **YES** |
-| [GabPay](https://news.gab.com/2021/08/01/an-alternative-to-paypal-is-coming/) (upcoming) | Gab has been cancelled in almost every way: [read here](https://news.gab.com/2021/08/01/an-alternative-to-paypal-is-coming/); [support them here at dissenter.com](https://shop.dissenter.com/)  | **YES** when available |
-| Zelle | Unsure | Might prefer the recommended services in this group until more is known |
-| CashApp | Unsure | Might prefer the recommended services in this group until more is known |
+| [AlignPay](https://alignpay.com/about.html) | - "‘Cancel culture’ free."<br>- seeing it used more and more  | **YES** |
+| [GabPay](https://www.gabpay.com/) | - new since the 2021 meetings<br>- fee of 1.9% plus $0.15  | **YES**  |
+| Zelle | From CTC: "Owned by Early Warning Services, LLC, which is owned by Bank of America, Truist, Capital One, JPMorgan Chase, PNC Bank, U.S. Bank, and Wells Fargo." | **NO** |
+| CashApp | "Free to send and receive money, stocks, or bitcoin" | Unsure whether they're involved in the culture war |
 | Authorize.net | Seem to be for small businesses | Might prefer the recommended services in this group until more is known |
 
 
@@ -208,9 +210,9 @@ Until that time though, a possible general list of buying priorities, worst to b
 
 ## Financial / Banking / Investing alternatives
 
-> ***<span class="hilite">If Christians would stop investing money in  companies promoting unbiblical values, there would be no culture war in this country...</span>***
+> ***<span class="hilite" style="font-size: 22px;">If Christians would stop investing money in  companies promoting unbiblical values, there would be no culture war in this country...</span>***
 
-> ***We have that much power in our numbers.***
+> ***<span class="hilite" style="font-size: 28px;">We have that much power in our numbers.</span>***
 
 ### Escaping Big Banks
 
@@ -224,8 +226,8 @@ When possible for your situation, consider using:
 ### Investing/Investment Services
 
 Recommended for Biblically responsible investing:<br>
-**[Financial Issues Stewardship Ministries](https://financialissues.org/)** <br> 
-**[Timothy Plan](https://timothyplan.com/)** funds and ETFs
+- **[Financial Issues Stewardship Ministries](https://financialissues.org/)** <br> 
+- **[Timothy Plan](https://timothyplan.com/)** funds and ETFs
 
 Also recommended: <br>
 **[American Conservative Values Fund](https://acvetfs.com/)** (ACVF)  
@@ -248,7 +250,7 @@ This cybersecurity training program is being used as an example for the State of
 
 A VPN encrypts your data and routes the traffic through a server in another location. Your Internet Provider doesn’t see what you are looking at online.  [A good article about what VPNs are and are not.](https://www.howtogeek.com/753661/vpn-myths-debunked-what-vpns-can-and-cannot-do/)  
 
-### Recommended
+### Recommended (not an exhaustive list)
 
 **[Private Internet Access (PIA) VPN](https://www.privateinternetaccess.com/)**  
 
@@ -310,17 +312,17 @@ AT&T, Verizon, etc. all give to “charities” like Planned Parenthood and La R
 - Less coverage than PureTalk USA
 - They donate to any charity you select, but Planned Parenthood is not an option. 
 
+---
+
 ## PHONES. *Not* Apple iPhones, *not* Google Android phones
 
-PHONES MAY BE WEAKEST LINK IN RETAINING OUR PRIVACY. 99.99% of the smartphone users in the world use an iPhone or Google Android <strike>portable telescreen</strike> phone. ***Please*** consider the best of the following suggested alternatives. 
+<strong class="hilite">PHONES MAY BE WEAKEST LINK IN RETAINING OUR PRIVACY.</strong> 99.99% of the smartphone users in the world use an iPhone or Google Android <strike>portable telescreen</strike> phone. ***Please*** consider the best of the following suggested alternatives. 
 
 [Why not iPhones? Click this link.](https://edwardsnowden.substack.com/p/all-seeing-i) (All right, Apple backed down this time. But they showed their hand when they considered it.)  
 
-
-
 ### 1. Flip phones ("dumb" phones)
 
-Not practical for most people, and the older 2G ones may [be about to not work anymore](https://www.pcmag.com/news/cdma-vs-gsm-whats-the-difference).  
+Not practical for most people. The older 2G and 3G ones may [be about to not work anymore](https://www.pcmag.com/news/cdma-vs-gsm-whats-the-difference). There are 4G flip phones.   
 
 ---
 
@@ -366,7 +368,7 @@ This is geeky but doable. So, since [Android is open source](https://source.andr
 
 #### Librem 5 USA
 
-[$2000](https://puri.sm/products/librem-5-usa/). Made in USA. <span class="hilite">***This is what it actually costs:*** <br>1. to not support China, <br>**2.** to not be subsidized by service providers and <br>**3.** to not be subsidized by Big Tech (Google and Apple).</span>  
+[$2000](https://puri.sm/products/librem-5-usa/). (!!) Made in USA. <span class="hilite">***This is what it actually costs:*** <br>1. to not support China, <br>**2.** to not be subsidized by service providers and <br>**3.** to not be subsidized by Big Tech (Google and Apple).</span>  
 
 ---
 
