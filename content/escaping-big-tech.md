@@ -81,7 +81,7 @@ Regarding the following, **<span class="hilite">just because you don't use Faceb
 
 ## Twitter alternatives
 
-**(Is the following possibly not as crucial with the new owner of Twitter?)** Our observation: there is *much* more content getting through without being censored. Some that is, people call out directly to Elon Musk and it appears that he is fixing things. Time will tell.     
+**(Is the following possibly not as crucial with the new owner of Twitter?)** Our observation: there is *much* more content getting through on the new Twitter without being censored. Sometimes, when content is censored, people call out directly to Elon Musk and it appears that he is fixing things. Time will tell.     
 
 
 | Twitter alternative  | Comments  | Recommended?  |
@@ -89,6 +89,10 @@ Regarding the following, **<span class="hilite">just because you don't use Faceb
 | [Parler](https://parler.com/main.php) | - The first to respond to the leftist/Big Tech taunt of "Conservatives, go make your own app!"<br>- They did, and were then kicked off both app stores and their web host<br>- To get reinstated on the Apple App Store and Google Play, what did they have to compromise on though...? | While deserving kudos, there may be better alternatives to Twitter now |
 | [Gab](https://gab.com/) | - Probably most hated by the left<br>- Is open source: good<br>- [Follow Cancel this Company](https://gab.com/Table4six)<br>- CTC: ["Is the ONLY online platform that allows free speech..."](https://www.cancelthiscompany.com/News-Alt-Tech-Outlets.html) !<br>- Cancel This Company's favorite  | **YES**  |
 | [GETTR](https://gettr.com/) | - Team Trump Platform<br>- [Follow CTC](https://gettr.com/user/cancelcompany) (though no posts as of 9-5-21)  | YES  |
+
+### Bottom line on these
+
+If you have your own group of people, you might still use an alternative. If there are people and/or groups you'd like to follow and they're only on Twitter, it seems less concerning than before to do so. \*crosses fingers\*
 
 ---
 
@@ -100,7 +104,7 @@ Note that standard SMS texting **is not secure!**
 
 | Messaging alternative  | Comments  | Recommended?  |
 |---|---|---|
-| Facebook Messenger | Are you ***kidding?!*** |  **NO.** Seriously, delete this app |
+| Facebook Messenger | There may be people you can only contact with Messenger. Hard choice. Give 'em a call instead! |  **NO.**  |
 | WhatsApp | - [Sold out its users to Facebook](https://www.thenews.com.pk/latest/776144-everybody-can-get-back-to-uninstalling-whatsapp-now-edward-snowden-after-signal-recovers) |  **NO**  |
 | [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the [F-Droid app store](https://f-droid.org/) (no need to go to Google Play Store)  | **YES**  |
 | [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.dailydot.com/debug/edward-snowden-signal-encryption-privacy-messaging/)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **NEUTRAL.** Remember, they know you're on it by your phone number |
