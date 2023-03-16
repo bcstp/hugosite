@@ -104,7 +104,7 @@ Note that standard SMS texting **is not secure!**
 
 | Messaging alternative  | Comments  | Recommended?  |
 |---|---|---|
-| Facebook Messenger | There may be people you can only contact with Messenger. Hard choice. Give 'em a call instead! |  **NO.**  |
+| Facebook Messenger | There may be people you can only contact with Messenger. Hard choice. Give 'em a call instead! |  **NO**  |
 | WhatsApp | - [Sold out its users to Facebook](https://www.thenews.com.pk/latest/776144-everybody-can-get-back-to-uninstalling-whatsapp-now-edward-snowden-after-signal-recovers) |  **NO**  |
 | [Session](https://getsession.org/) | - <span class="hilite">It *doesn't* ask for personally identifying information</span> (email or phone)<br>- Open source: good<br>- uses Tor-type onion routing network<br>- End-to-end encryption<br>- Available at the [F-Droid app store](https://f-droid.org/) (no need to go to Google Play Store)  | **YES**  |
 | [Signal](https://www.signal.org/) | - Requires registering with your phone number<br>- [Used by Edward Snowden](https://www.dailydot.com/debug/edward-snowden-signal-encryption-privacy-messaging/)<br>- Open source: good<br>- End-to-end encryption<br>- computer version too  | **NEUTRAL.** Remember, they know you're on it by your phone number |
@@ -405,6 +405,8 @@ But these may change! (Again!)
 <a name="meetings" id="meetings"></a>  
 
 # Meeting presentations
+
+## NOTE: these presentations are from Aug. and Sept. 2021. Some of the material will be out of date
 
 [Presentation file from meeting 1 here](/odp/ebt-1of3.odp)  
 

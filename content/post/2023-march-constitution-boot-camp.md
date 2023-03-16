@@ -1,5 +1,5 @@
 ---
-title: "SAVE THE DATE: Constitution Boot Camp March 18"
+title: "Constitution Boot Camp March 18"
 date: 2023-03-06T16:39:08-06:00
 summary: "The Constitution is not a self-enforcing document. -The Founders"
 description: "The Constitution is not a self-enforcing document. -The Founders"
