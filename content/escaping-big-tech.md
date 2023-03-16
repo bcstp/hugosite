@@ -162,7 +162,8 @@ Note, <span style="font-weight: bold;" class="hilite">Amazon.com is [Cancel This
 
 **[Open Library](https://openlibrary.org/)** is part of the amazing and always-growing [Internet Archive](https://archive.org/). They claim to have millions of e-books available, including some newer ones on a "borrow" basis.  
 
-**[The Bryan/College Station Public Library System](https://www.bcslibrary.org/catalog/e-books/)** has a collection of e-books (and [audiobooks](https://www.bcslibrary.org/eaudiobooks/)) to check out. They've also compiled a [list of other sources of free e-books](https://www.bcslibrary.org/wp-content/uploads/ebook_list20120223.pdf).    
+**[The Bryan/College Station Public Library System](https://www.bcslibrary.org/catalog/e-books/)** has a collection of e-books (and [audiobooks](https://www.bcslibrary.org/catalog/e-audiobooks/)) to check out.  
+
 ### Other purchasing; replacing Amazon
 
 Cancel this Company's **[Good or apolitical companies to support](https://www.cancelthiscompany.com/Good-Companies.html)**  
