@@ -17,7 +17,7 @@ The filing period has ended for the 88th Legislative Session. 5301 bills have be
 
 Just when you thought our elections could not become more unreliable, Legislation has been filed to implement **Rank Choice Voting.**    
 
-### Reject* SB637 and HB1792
+### *Reject* SB637 and HB1792
 
 Senator Sarah Eckhart and Representative Vikki Goodwitt have filed SB637 and HB1792 respectively, bills that would mandate Rank Choice Voting for Special Elections. This gimmick to manipulate the vote should not gain a toe hold in Texas and must be soundly rejected. 
 
@@ -25,7 +25,7 @@ Senator Sarah Eckhart and Representative Vikki Goodwitt have filed SB637 and HB1
 
 Senator Bryan Hughes and Representative Brisco Cain filed SB921 and HB3611 respectively, to ban Rank Choice Voting in Texas and deserves our full support.     
 
-**[MORE]()** or just **[TAKE ACTION NOW](https://www.votervoice.net/BroadcastLinks/gWCQOofTBcg0OvMUSNjIaA)** to advocate on behalf of fair and honest elections. It will take you less than a minute.   
+**[MORE](#rank-choice)** or just **[TAKE ACTION NOW](https://www.votervoice.net/BroadcastLinks/gWCQOofTBcg0OvMUSNjIaA)** to advocate on behalf of fair and honest elections. It will take you less than a minute.   
 
 ---
 
