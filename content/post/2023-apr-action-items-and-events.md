@@ -14,7 +14,7 @@ Rhonda Anderson, Director of Grassroots Engagement for Gov. Abbott, has requeste
 Here are our state rep's direct email addresses. John Raney: <a href="mailto:john.raney@house.texas.gov">john.raney@house.texas.gov</a>;  or Kyle Kacel: <a href="mailto:kyle.kacal@house.texas.gov">kyle.kacal@house.texas.gov</a>.  
 
 
-[Download a sample letter to your State Representative](/doc/state-rep-school-choice.docx)
+[Download a sample letter to your State Representative](/doc/state-rep-school-choice.docx). You may want to modify the letter to reflect your personal opinion, while keeping it brief. Thanks!  
 
 ---
 
@@ -43,7 +43,7 @@ Texas A&M Young Americans for Freedom and Young America's Foundation are bringin
 
 **Thursday, April 20**, 6:30pm - 8:30pm, Outback Steakhouse  
 
-Brandon Walten of Texas Scorecard and will be sharing what’s HOT in the current legislative session. We'll have more in an upcoming email.  
+Brandon Walten of Texas Scorecard will be sharing what’s HOT in the current legislative session. We'll have more in an upcoming email.  
 
 ---
 
