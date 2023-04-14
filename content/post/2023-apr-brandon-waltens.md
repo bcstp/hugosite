@@ -29,6 +29,8 @@ Again, Follow this link: **[Texas First Alert EMERGENCY](https://www.texasfirst.
 <p>Brandon Waltens, Texas Scorecard</p>
 </div>
 
+*(Now, after you're done with the above, you may continue reading!)*  
+
 ## Texas Scorecard. You need to be reading this great source of Texas info
 
 Our guest speaker will be **Brandon Waltens**, Managing Editor for **[Texas Scorecard](https://texasscorecard.com/)** which is ***one of THE best sources for <span class="hilite">honest news reporting, investigations and commentary for what’s happening in TEXAS</span> politics and culture.***
