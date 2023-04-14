@@ -1,8 +1,8 @@
 ---
 title: "April meeting: Brandon Waltens discussing the state of the Legislature"
 date: 2023-04-14T12:31:39-05:00
-description: "Hot topics in the current Texas Legislative Session&mdash;what’s gotten done so far, what will be ignored/thrown out, and other important issues"
-summary: "Hot topics in the current Texas Legislative Session&mdash;what’s gotten done so far, what will be ignored/thrown out, and other important issues"
+description: "Hot topics in the current Texas Legislative Session: what’s gotten done so far, what will be ignored/thrown out, and other important issues"
+summary: "Hot topics in the current Texas Legislative Session: what’s gotten done so far, what will be ignored/thrown out, and other important issues"
 ---
 
 **_Thursday, April 20, 2023, 6:30 PM_**  
