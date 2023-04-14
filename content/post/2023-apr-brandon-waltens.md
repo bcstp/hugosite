@@ -1,14 +1,26 @@
 ---
 title: "April meeting: Brandon Waltens discussing the state of the Legislature"
 date: 2023-04-14T12:31:39-05:00
-description: "Hot topics in the current Texas Legislative Session: what’s gotten done so far, what will be ignored/thrown out, and other important issues"
-summary: "Hot topics in the current Texas Legislative Session: what’s gotten done so far, what will be ignored/thrown out, and other important issues"
+description: "Hot topics in the current Texas Legislative Session: what’s gotten done so far, what will be ignored/thrown out, and other important issues. ALSO A CRUCIAL TEXAS FIRST ALERT!"
+summary: "Hot topics in the current Texas Legislative Session: what’s gotten done so far, what will be ignored/thrown out, and other important issues. ALSO A CRUCIAL TEXAS FIRST ALERT!"
 ---
 
 **_Thursday, April 20, 2023, 6:30 PM_**  
 **_<strong><span class="hilite">Outback Steakhouse</span></strong>, 2102 Texas Avenue South, College Station_**
 
 ## As always, consider arriving early for dinner and discussion!
+
+---
+
+## FIRST: a CRUCIAL Texas First Alert: The Time to Act is Now!
+
+### ACT NOW to secure our elections
+
+Follow this link: **[Texas First Alert EMERGENCY](https://www.texasfirst.org/alerts)**
+
+Thanks to Representative Steve Toth, we have a bill, HB5234, that would return elections back to the citizens, taking control out of the hands of the corporations who currently control every aspect of our elections. While putting safeguards in place to ensure that our elections are conducted with accuracy, transparency and accountability, **HB5234 needs to be heard by the House Elections Committee by April 20th** so that we can get this bill to the House floor for a vote.  
+
+Again, Follow this link: **[Texas First Alert EMERGENCY](https://www.texasfirst.org/alerts)** to take action now!  
 
 ---
 
