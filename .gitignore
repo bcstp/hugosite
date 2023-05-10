@@ -2,3 +2,4 @@ public/
 themes/hyde/
 .DS_Store
 archive/
+.hugo_build.lock
