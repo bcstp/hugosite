@@ -22,7 +22,7 @@ This is why many people want to eliminate property tax and replace it with an eq
 
 ## The deadline to protest your Brazos County property tax appraisal is <span class="hilite">May 24</span>.  
 
-The speaker will be Michael Berlanga. ***He is the real deal on property tax issues.*** This event was put on by former State Rep. Fred Brown.  
+The speaker will be Michael Berlanga. ***He is the real deal on property tax issues.*** This event is being put on by former State Rep. Fred Brown.  
 
 <img src="/img/property-tax-protest-event.jpg" alt="Join us to learn your rights how to protest your property taxes" style="width:100%;">   
 
