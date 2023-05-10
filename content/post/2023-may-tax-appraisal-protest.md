@@ -1,8 +1,8 @@
 ---
 title: "May Meeting: How to Protest Your Property Taxes"
 date: 2023-05-10T10:13:27-05:00
-summary: "Seriously, the valuations have gone through the absolute ROOF this time around."
-description: "Seriously, the valuations have gone through the absolute ROOF this time around."
+summary: "The valuations have gone through the absolute ROOF this time around."
+description: "The valuations have gone through the absolute ROOF this time around."
 ---
 
 # NOTE THE VENUE CHANGE FOR THIS MEETING!
