@@ -48,12 +48,12 @@ Josh's commitment to educational freedom extends beyond his own personal experie
 
 Recognizing the need for active involvement in shaping educational policies, particularly after his own children were exposed to inappropriate materials in school, Josh has taken on various responsibilities within the Republican Party of Texas (RPT). Serving on two SREC subcommittees, namely "Stop Sexualizing Texas Kids" and "Parental Rights and Educational Freedom," he has worked tirelessly to ensure the well-being and rights of students and parents are protected.  
 
-As a proponent of school choice, Josh firmly believes that parents should have the ability to choose the educational environment that best suits their children's needs. This passion coupled with their other work in education resulted in Josh and his wife receiving the Texas Scorecard Conservative Leader Award in 2022.  
+As a proponent of school choice, Josh firmly believes that parents should have the ability to choose the educational environment that best suits their children's needs. This passion coupled with their other work in education resulted in Josh and his wife receiving the **Texas Scorecard Conservative Leader Award in 2022.**  
 
 In his role as an education advocate, Josh has worked beside his wife to defend his school district from a harmful health curriculum and played key roles in stopping the transformative health TEKS proposed in the summer of 2022. Currently they are focused on recruiting teachers who are willing to review curriculum for the TEA and defend traditional American family values.  
 
 With his deep-rooted Texan heritage, his personal experiences as a parent, and his dedication to educational excellence, Josh Posey continues to be a positive force in the pursuit of high-quality education for all children in Waller County and beyond.  
 
 Josh Posey  
-(281) 702-5704  
-<a href="mailto:Josh@poseyemail.com">Josh@poseyemail.com</a>  
+832-422-7386 
+<a href="mailto:info@apollosineducation.com">info@apollosineducation.com</a>  
