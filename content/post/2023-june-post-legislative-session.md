@@ -55,5 +55,5 @@ In his role as an education advocate, Josh has worked beside his wife to defend 
 With his deep-rooted Texan heritage, his personal experiences as a parent, and his dedication to educational excellence, Josh Posey continues to be a positive force in the pursuit of high-quality education for all children in Waller County and beyond.  
 
 Josh Posey  
-832-422-7386 
+832-422-7386  
 <a href="mailto:info@apollosineducation.com">info@apollosineducation.com</a>  
