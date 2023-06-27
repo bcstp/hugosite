@@ -29,7 +29,7 @@ And thanks so much to **Doug Watkins** of the **[Texas State Public Affairs Netw
 
 **_Friday, June 30, 6-9 PM_**  
 **_<strong><span class="hilite">Iola Missionary Baptist Church
-</span></strong>, 23471 FM 244 Rd, Iola, Texas_**  
+</span></strong>, 23471 FM 244, Iola, Texas_**  
 
 “Active shooter”—unfortunately, it’s both a common phrase in the news these days and an event that most people would benefit from being prepared for.  
 
