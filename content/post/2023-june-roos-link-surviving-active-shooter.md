@@ -41,6 +41,8 @@ Topics include:
 - How to take a proactive role (as opposed to being a powerless victim)
 - Essential survival skills
 
+**[Register](https://www.uslawshield.com/seminar/)**  
+
 **<a href="/pdf/Iola-Missionary-Baptist-Church-Flyer-06-30-2023.pdf">DOWNLOAD the FLYER</a>**  
 
 
