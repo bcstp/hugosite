@@ -1,5 +1,5 @@
 ---
-title: "September meeting: Bill Peacock on the 14 proposed amendments we'll vote on for the Texas Constitution"
+title: "September meeting: Bill Peacock on the 14 proposed amendments we vote on for the Texas Constitution"
 date: 2023-09-14T11:16:29-05:00
 summary: "If approved by us, these proposed constitutional amendments will become law"
 description: "If approved by us, these proposed constitutional amendments will become law"
