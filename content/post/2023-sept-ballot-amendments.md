@@ -16,7 +16,7 @@ description: "If approved by us, these proposed constitutional amendments will b
 
 The November 7 General Election will include 14 Proposed Amendments for the Texas Constitution: **[see the ballot](/pdf/2023-sample-ballot-final.pdf)**. There will be no public offices on the ballot and this will tempt some folk to ignore this election.  
 
-## The devil is always in the details  
+## The devil is always in the details...  
 
 Some of the proposals on the ballot are brief and lack proper explanation, some are long and convoluted, which is typical for ballot propositions. Reading the propositions prompts the question “What does all this actually mean and what impact will they have if they are approved?”  
 
