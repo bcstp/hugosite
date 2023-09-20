@@ -31,7 +31,9 @@ This boot camp is updated material from **[bcsteaparty.com/constitution/](https:
 
 Friends **[Building Blocks for Liberty](https://buildingblocksforliberty.org/)** out of Ohio, and Bob Hilliard, author of **[The Handbook for We the People](https://wethepeoplehandbook.com/)**, worked together to compile the presentation we'll be using.  
 
-**[True Texas Project](https://truetexasproject.com/)** has helped get this Boot Camp offered all over the state for the past two years, and will be offering this event again in September, here and in various cities around Texas. These, as well as the Boot Camp this month, will help you qualify for **[True Texan Certification](https://truetexasproject.com/certified-true-texan-program/)**.   
+## Thank you True Texas Project!
+
+**[True Texas Project](https://truetexasproject.com/)** has helped get this Boot Camp offered all over the state for the past three years, here and in various cities around Texas. These will help you qualify for **[True Texan Certification](https://truetexasproject.com/certified-true-texan-program/)**.   
 
 
 Hope to see everyone on Saturday!  
