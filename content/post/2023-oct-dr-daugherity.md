@@ -32,8 +32,8 @@ Dr. Walter Daugherity ([bio](#bio)) will be our guest speaker for this meeting. 
 
 ## You DO NOT want to miss this program 
 
-1. **If you missed the [Hand Count Road Show](https://www.bcsteaparty.com/post/2023-aug-hand-count-road-show/)** (there are excellent videos and info at this link), you must attend this meeting!
-2. **If you attended [Hand Count Road Show](https://www.bcsteaparty.com/post/2023-aug-hand-count-road-show/)** (there are excellent videos for review at this link), please come and help others for whom this is new!
+1. **If you missed the [Hand Count Road Show](https://www.bcsteaparty.com/post/2023-aug-hand-count-road-show/)**, you must attend this meeting!
+2. **If you attended [Hand Count Road Show](https://www.bcsteaparty.com/post/2023-aug-hand-count-road-show/)**, please come and help others for whom this is new!
 
 Looking forward to seeing you again soon!
 
