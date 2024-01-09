@@ -1,7 +1,8 @@
 ---
 title: "January 2024 meeting: Primary Elections coming SOON!"
 date: 2024-01-09T15:10:42-06:00
-
+description: "We will have candidates speaking! These elections are on March 5 with early voting starting February 20"
+summary: "We will have candidates speaking! These elections are on March 5 with early voting starting February 20"
 ---
 
 **_Thursday, January 18, 2024 (yes, 2024!) at 6:30 PM_**  
@@ -21,7 +22,7 @@ Election season is here. ***The Primary Election will be held on March 5*** and 
 
 The ballot will have 23 federal, statewide and county races plus 13 Republican Propositions. We need all the information we can absorb to make the best decisions possible.  
 
-Guest speakers for our meeting will be:
+## Candidates speaking will be:
 
 **<span class="hilite">Maritza Sifuentez-Chavarria</span>** - running for District Attorney. [See her campaign website](https://maritzafordistrictattorney.com/new-home-copy)  
 
