@@ -24,13 +24,15 @@ The ballot will have 23 federal, statewide and county races plus 13 Republican P
 
 ## Candidates speaking will be:
 
-**<span class="hilite">Maritza Sifuentez-Chavarria</span>** - running for District Attorney. [See her campaign website](https://maritzafordistrictattorney.com/new-home-copy)  
+**<span class="hilite" style="font-size: 22px;">Maritza Sifuentez-Chavarria</span>** - running for Brazos County District Attorney. [See her campaign website](https://maritzafordistrictattorney.com/new-home-copy)  
 
-**<span class="hilite">Rick Davis</span>** - running for HD 14 State Representative. [Business website](https://www.attorneyrickdavis.com/)  
+**<span class="hilite" style="font-size: 22px;">Rick Davis</span>** - running for HD 14 State Representative. [Business website](https://www.attorneyrickdavis.com/)  
 
-## Both races are a BIG DEAL
+**<span class="hilite" style="font-size: 22px;">Fred Brown</span>** - former state rep. running for Brazos Co. Precinct 3 Commissioner. [See his campaign website](https://fredbrownpct3.org/)  
 
-Maritza is running against a long-time incumbent. And the District 14 race will be a HUGE opportunity to replace a long-term, now retired RINO. **Make sure you make it to this meeting!!**  
+## These races are a BIG DEAL
+
+Maritza and Fred Brown are running against long-time incumbents. And the District 14 race will be a HUGE opportunity to replace a long-term, now retired RINO. **Make sure you make it to this meeting!!**  
  
 
 Looking forward to seeing you again soon!
