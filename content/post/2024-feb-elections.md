@@ -1,8 +1,8 @@
 ---
-title: "February meeting: Primary Elections"
+title: "February meeting: Primary Election Discussion and Local Candidate Forum"
 date: 2024-02-08T11:07:03-06:00
-description: "Election Day is Mar. 5, early voting starts Feb. 20"
-summary: "Election Day is Mar. 5, early voting starts Feb. 20"
+description: "Election Day is Mar. 5, early voting starts Feb. 20...and ELECTION WORKERS ARE NEEDED!"
+summary: "Election Day is Mar. 5, early voting starts Feb. 20...and ELECTION WORKERS ARE NEEDED!"
 ---
 
 **_Thursday, February 15, 2024 at 6:30 PM_**  
