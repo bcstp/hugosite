@@ -47,6 +47,12 @@ Looking forward to seeing you again soon!
 
 There will be no charge for admission but we will encourage everyone to make a purchase of food or drink....or food and drink...  
 
+## And if you missed the State Rep candidate forum...
+
+[Texas Scorecard recording of State Rep Forum](https://www.youtube.com/watch?v=o6DelywYmUs)  
+
+
+
 ### AND...
 
 ---
