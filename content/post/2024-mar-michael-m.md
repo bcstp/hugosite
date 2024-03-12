@@ -1,8 +1,8 @@
 ---
 title: "March Meeting: Deutschland 2024 - Quo Vadis? Europe first, then...?"
 date: 2024-03-12T12:58:45-05:00
-description: ""
-summary: ""
+description: "What happens in Europe...doesn't stay in Europe"
+summary: "What happens in Europe...doesn't stay in Europe"
 ---
 
 **_Thursday, March 21, 2024 at 6:30 PM_**  
